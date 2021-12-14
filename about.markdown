@@ -1,18 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: index
+title: Explore Drama Around You
+permalink: /drama_in_london/
 ---
+How can Modern Dramaer Explore their fantastic life in London?
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+这页用地图介绍伦敦的剧场，可通往剧院主页（在data.theatres)

@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: Dramaer Museum
+layout: index
 ---
+
+{% for exhibit in site.exhibits %}
+
+{% assign individual = site.data.categories | find: "title", exhibit.title %}
+{% assign writers = site.data.writers | find: "writer", exhibit.writer %}
+
+<a href="{{ exhibit.url | relative_url }}" target="_blank" title="跳转到individual page"><img src="{{ exhibit.image-url }}" width = 350></a>
+<h3><a href="{{ exhibit.url | relative_url }}">{{ exhibit.title }}</a> by <a href="{{ writers.writer-url }}">{{ exhibit.writer }}</a></h3>
+<p>{{ exhibit.brief-introduction }}</p>
+
+{% endfor %}
