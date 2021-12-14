@@ -9,8 +9,8 @@ licence: "CC BY-SA 4.0"
 
 writer: "Johann Wolfgang von Goethe"
 
-category: "Opera and Musical"
-tag: 时期，Tragedy, Historical, God, Philosophy, Fantasy
+category: "Opera and Musicals"
+tag: 1850s, Tragedy, Historical, God, Philosophy, Fantasy
 
 synopsis: "In 16th century, Germany. God and the devil Méphistophélès bet the soul of Faust. Méphistophélès insists that Faust, a scholar who is full of poetry and knowledge, will gradually degenerate under the temptation of desire, and God believes in Faust. Rationality will eventually defeat desire."
 act-brief: |
@@ -30,9 +30,9 @@ performance-venue: "Boulevard du Temple"
 director: "Charles Gounod"
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Charles_Gounod00.jpg/996px-Charles_Gounod00.jpg"
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
-scriptwriter: "Jules Barbier and Michel Carré (French libretto)"
+scriptwriter: "Jules Barbier and Michel Carré (French Libretto)"
 references: |
-  "wikipedia.org. 2021. Faust (opera) - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Faust_(opera)> [Accessed 13 December 2021].
+  "wikipedia.org. 2021. Faust (opera) - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Faust_(opera)> [Accessed 13 December 2021]."
 
 layout: exhibit
 ---

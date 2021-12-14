@@ -9,8 +9,8 @@ licence: "CC BY-SA 4.0"
 
 writer: "Giovanni Verga"
 
-category: "Opera and Musical"
-tag: 时期，Tragedy, Romance, Historical, God, Philosophy, Fantasy
+category: "Opera and Musicals"
+tag: 1890s, Tragedy, Romance, Historical, God, Philosophy, Fantasy
 
 synopsis: "Cavalleria Rusticana is based on the real life of an ordinary farmer in Sicily, Italy. It describes the relationship between the farmer Turiddu and his ex girlfriend Lola after his marriage, which made his wife Santuzza very angry. Santuzza told Lola's husband about the matter, the two men were in a duel, and Turiddu was killed."
 act-brief: |

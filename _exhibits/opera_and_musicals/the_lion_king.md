@@ -9,8 +9,8 @@ licence: "CC BY 2.0"
 
 writer: "Walt Disney Animation Studios"
 
-category: "Opera and Musical"
-tag: 时期, Animation, Love, Child, West End, Broadway
+category: "Opera and Musicals"
+tag: 1990s, Animation, Love, Child, West End, Broadway
 
 synopsis: "The story of how the little lion Simba, accompanied by many passionate friends, not only experienced the glorious moments of life, but also passed the troughs and challenges of life, and finally became the king of the forest."
 act-brief: |
@@ -27,7 +27,7 @@ performance-venue: "Broadway Theatre"
 director: "Julie Taymor"
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Julie_Taymor_Shankbone_2009_Metropolitan_Opera.jpg/824px-Julie_Taymor_Shankbone_2009_Metropolitan_Opera.jpg"
 directer-img-licence: "CC BY 3.0"
-scriptwriter: "Elton John (Music) and Tim Rice (Lyrics), Hans Zimmer (musical score), Lebo M (Choral Arrangements)."
+scriptwriter: "Elton John (Music) and Tim Rice (Lyrics), Hans Zimmer (musical score), Lebo M (Choral Arrangements)"
 referneces: |
   "wikipedia.org. 2021. The Lion King (musical) - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/The_Lion_King_(musical)#Synopsis> [Accessed 13 December 2021]."
 

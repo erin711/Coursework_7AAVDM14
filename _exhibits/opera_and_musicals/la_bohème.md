@@ -9,8 +9,8 @@ licence: "CC BY 2.0"
 
 writer: "Henri Murger"
 
-category: "Opera and Musical"
-tag: 时期，Romance, Classics, Music, Italian, Tragedy, Passion
+category: "Opera and Musicals"
+tag: 1900s, Romance, Classics, Music, Italian, Tragedy, Passion
 
 synopsis: |
   "A sad love story of Rodolfo and Mimì. When the penniless poet Rodolfo met the tailor Mimì, they immediately fell in love. But when Rodolfo learned that Mimì was seriously ill, their happiness is threatened.
@@ -33,7 +33,7 @@ performance-venue: "La Scala"
 director: "Giacomo Puccini "
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GiacomoPuccini.jpg/815px-GiacomoPuccini.jpg"
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
-scriptwriter: "Luigi Illica and Giuseppe Giacosa (Italian libretto)"
+scriptwriter: "Luigi Illica and Giuseppe Giacosa (Italian Libretto)"
 reference: |
   "eno.org. 2021. Puccini's La bohème [online] Available at: <https://www.eno.org/operas/la-boheme/ and https://www.roh.org.uk/tickets-and-events/la-boheme-stream-details> [Accessed 13 December 2021].
 

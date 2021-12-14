@@ -8,19 +8,22 @@
   <body>
     <div class="container">
         <nav>
-            <a href="{{ site.baseurl }}/">Explore</a>
-            <a href="{{ site.baseurl }}/opera_and_music">Opera and Music</a>
-            <a href="{{ site.baseurl}}/drama_in_london">Drama in London</a>
+            <a href="{{ site.baseurl }}/">Top Picks</a>
+            <a href="{{ site.baseurl }}/plays">Plays</a>
+            <a href="{{ site.baseurl }}/opera_and_musicals">Opera and Musicals</a>
+            <a href="{{ site.baseurl }}/dance">Dance</a>
+            <a href="{{ site.baseurl}}/drama_in_london">Explore Drama in London</a>
+            <a href="{{ site.baseurl }}/search">Search</a>
         </nav>
     </div>
     
-    <div class="container">
+    <div class="wrapper">
        
         {% assign licences = site.data.licences | find: "image-licence", page.image-licence %}
         {% assign writers = site.data.writers | find: "writer", page.writer %}
 
-        <h1>{{ page.title }}</h1>
-        <h3>{{ page.writer }}</h3>
+        <h1><a href="{{ page.drama-url }}">{{ page.title }}</a></h1>
+        <h3><a href="{{ writers.writer-url }}">{{ page.writer }}</a></h3>
         <p>{{ page.brief-introduction }}</p>
         <img src="{{ page.image-url }}" width = 500></a>
         <p>The world premiere</p>

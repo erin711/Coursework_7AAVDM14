@@ -9,8 +9,8 @@ licence: "CC BY-SA 4.0"
 
 writer: "Catherine Johnson"
 
-category: "Opera and Musical"
-tag: 1990s，Tragedy, Classics, ABBA, Love, Female, West End
+category: "Opera and Musicals"
+tag: 1990s, Youth, Classics, ABBA, Love, Female, West End, Broadway, Popular
 
 synopsis: |
   "The story tells the story of a mother and her daughter who lived by opening a restaurant on a small Greek island. Her daughter is about to get married. She hopes that her father can personally hand over her to her husband on the wedding, but her mother never told her who is her father. Before getting married, she took a peek at her mother's diary and found that her mother had three lovers who were most likely her biological father. In a hurry, she sent three invitations based on the old letter address she found. They attended her wedding...
@@ -32,7 +32,7 @@ performance-venue: "Prince Edward Theatre"
 director: "Phyllida Lloyd"
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Phyllida_Lloyd_%28cropped%29.jpg"
 directer-img-licence: "CC BY 2.0"
-scriptwriter: "Benny Andersson & Björn Ulvaeus (Music & Lyrics), Anthony Van Laast (Choreograph), Howard Harrison (Lighting Design), Andrew Bruce & Bobby Aitken (Sound Design), Martin Koch (Musical Supervision, Additional Material & Arrangements)."
+scriptwriter: "Benny Andersson & Björn Ulvaeus (Music & Lyrics), Anthony Van Laast (Choreograph), Howard Harrison (Lighting Design), Andrew Bruce & Bobby Aitken (Sound Design), Martin Koch (Musical Supervision, Additional Material & Arrangements)"
 
 references: |
   "wikipedia.org. 2021. Mamma Mia! (musical) - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Mamma_Mia!_(musical)#Synopsis> [Accessed 13 December 2021].

@@ -9,8 +9,8 @@ licence: "CC BY 2.0"
 
 writer: "Victor Hugo"
 
-category: "Opera and Musical"
-tag: 时期，Tragedy, Classics, Justice, Love, Redemption, Revolution, West End
+category: "Opera and Musicals"
+tag: 1980s, Tragedy, Classics, Justice, Love, Redemption, Revolution, West End
 
 synopsis: "The story is based on the Republican rebellion in Paris in 1832. It tells the arduous journey of the protagonist Jean Valjean who was sentenced to a severe sentence many years ago. After parole, he planned to be a new being and change the society, while he encountered various difficulties..."
 act-brief: |
@@ -29,7 +29,7 @@ performance-venue: "Palais des Sports"
 director: "Robert Hossein"
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PHOTOS_ROBERT.jpg/880px-PHOTOS_ROBERT.jpg"
 directer-img-licence: "CC BY-SA 4.0"
-scriptwriter: "Claude-Michel Schönberg (Music), Alain Boublil and Jean-Marc Natel (Original French lyrics), and Herbert Kretzmer (English lyrics)"
+scriptwriter: "Claude-Michel Schönberg (Music), Alain Boublil and Jean-Marc Natel (Original French Lyrics), Herbert Kretzmer (English Lyrics)"
 
 references: |
   "wikipedia.org. 2021. Les Misérables (musical) - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(musical)#Synopsis> [Accessed 13 December 2021].

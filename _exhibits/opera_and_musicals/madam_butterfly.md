@@ -10,7 +10,7 @@ licence: "CC BY 2.0"
 writer: "John Luther Long"
 
 category: "Opera and Musical"
-tag: 时期，Tragedy, Asia, Romance，Gothic
+tag: 1870s, Tragedy, Asia, Romance，Gothic
 
 synopsis: "Puccini’s poignant score follows the tragic tale of Cio Cio San, a young Japanese girl who falls in love with American naval officer Pinkerton, with devastating consequences."
 act-brief: |
@@ -29,7 +29,7 @@ performance-venue: "National Theatre Munich"
 director: "Giacomo Puccini"
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GiacomoPuccini.jpg/815px-GiacomoPuccini.jpg"
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
-scriptwriter: "Luigi Illica and Giuseppe Giacosa (Italian libretto)"
+scriptwriter: "Luigi Illica and Giuseppe Giacosa (Italian Libretto)"
 references: |
   "wikipedia.org. 2021. Madama Butterfly - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Madama_Butterfly#Synopsis> [Accessed 13 December 2021]."
 

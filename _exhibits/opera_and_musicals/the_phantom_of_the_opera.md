@@ -9,8 +9,8 @@ licence: "CC BY 3.0"
 
 writer: "Gaston Leroux"
 
-category: "Opera and Musical"
-tag: 时期，Romance, Classics, Music, 自定义(tragedy, mythology, epic, twins)
+category: "Opera and Musicals"
+tag: 1980s, Romance, Classics, Music, 自定义(tragedy, mythology, epic, twins)
 
 synopsis: "In an opera house in Paris, strange things happened frequently--the original lead heroine was almost killed, and a creepy phantom male voice appeared in the theater. This voice comes from the \"ghost\" who lives in the underground labyrinth of the theater. He fell in love with actress Christine, taught her to sing secretly, and helped her get the position of the heroine, but Christine loved the theater patron Lau Er, this caused a series of plots such as jealousy, chasing, and murder. In the end, the \"ghost\" realized that his love for Christine had surpassed personal possessiveness, so he freed Christine, leaving behind his cloak and mask, and disappearing into the dark underground maze alone."
 act-brief: |

@@ -1,0 +1,28 @@
+---
+---
+[
+  {% for exhibit in site.exhibits %} 
+    {
+    
+      "title"    : "{{ exhibit.title }}",
+      "url"      : "{{ site.baseurl }}{{ exhibit.url }}", 
+      "category" : "{{ exhibit.category }}",
+      "tags"     : "{{ exhibit.tags }}",
+      "licence"  : "{{ exhibit.licence }}",
+      "writer"   : "{{ exhibit.writer }}",
+      "director" : "{{ exhibit.director }}",
+      "date"     : "{{ exhibit.performance-date | date: "%Y" }}",
+      "text"     : "{{ exhibit.synopsis }}{{ exhibit.act-brief }}"
+
+    }{% unless forloop.last %},{% endunless %} 
+  {% endfor %}
+
+  {% for character in data.characters %}
+    {
+     
+      "characrter" : "{{ exhibit.title }}",
+      "cast"       : "{{ exhibit.title }}",
+
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

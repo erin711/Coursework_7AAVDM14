@@ -9,8 +9,8 @@ licence: "CC BY-SA 3.0"
 
 writer: "Richard Wagner"
 
-category: "Opera and Musical"
-tag: 时期，Tragedy, Mythology, Epic, Twins
+category: "Opera and Musicals"
+tag: 1870s, Tragedy, Mythology, Epic, Twins
 
 synopsis: "The twin children of Wotan, the lord of the gods, Sieglinde and Siegmund, fell in love without knowing it. Later, Siegmund was punished and died by Wotan; A daughter, one of the Valkyries, escaped with the help of Brunheed; Brunheed was punished by Wotan and locked on the mountain."
 act-brief: |
