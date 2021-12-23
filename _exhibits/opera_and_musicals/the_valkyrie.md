@@ -18,11 +18,14 @@ tags: 1870s, Tragedy, Mythology, Epic, Twins
 
 synopsis: "The twin children of Wotan, the lord of the gods, Sieglinde and Siegmund, fell in love without knowing it. Later, Siegmund was punished and died by Wotan; A daughter, one of the Valkyries, escaped with the help of Brunheed; Brunheed was punished by Wotan and locked on the mountain."
 act-brief: |
-  "The story of Die Walküre is based on the Norse mythology told in the Volsunga Saga and the Poetic Edda. 
-  Act I - Siegmund tells his life story to Hunding and describes his mother’s murder and his separation from his twin sister and \‘Wolf\’, his father. Hunding realises that Siegmund is his enemy. However, in a perfect spring night, they detect that they are brother and sister. Siegmund claims the his father's sword \‘Nothung\’ and Sieglinde as his bride.
-  Act II - Wotan orders his Valkyrie daughter, Brünnhilde, to protect Siegmund in the forthcoming fight with Hunding. But Brünnhilde announces to Siegmund that he must die and follow her to Valhalla.
-  Act III - Brünnhilde tries to convince Wotan that in helping Siegmund she had been acting in her father’s interests, finally, Wotan agrees and summons Loge to surround her with flames.
-  (eno.org, 2021)"
+  _The story of Die Walküre is based on the Norse mythology told in the Volsunga Saga and the Poetic Edda._  
+
+  _**Act I**_ - Siegmund tells his life story to Hunding and describes his mother’s murder and his separation from his twin sister and 'Wolf', his father. Hunding realises that Siegmund is his enemy. However, in a perfect spring night, they detect that they are brother and sister. Siegmund claims the his father's sword 'Nothung' and Sieglinde as his bride.  
+
+  _**Act II**_ - Wotan orders his Valkyrie daughter, Brünnhilde, to protect Siegmund in the forthcoming fight with Hunding. But Brünnhilde announces to Siegmund that he must die and follow her to Valhalla.  
+
+  _**Act III**_ - Brünnhilde tries to convince Wotan that in helping Siegmund she had been acting in her father’s interests, finally, Wotan agrees and summons Loge to surround her with flames.  
+  (eno.org, 2021)
 
 transition: "The Valkyrie is the second part of Wagner’s four-opera Ring saga. These four musicals are masterpieces completed by Wagner in more than two decades. The scripts of the series are written by Wagner himself based on Nordic myths and legends, and the plot is tragic as a whole. \"The Ring Series\" is also a model of Wagner's musical reform. The first Munich performances of Die Walküre were generally hailed as successes by audiences and critics. Let's go back to this first performance of Wagner’s Die Walküre..."
 

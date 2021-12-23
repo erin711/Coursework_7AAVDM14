@@ -18,11 +18,15 @@ tags: 1850s, Tragedy, Historical, God, Philosophy, Fantasy
 
 synopsis: "In 16th century, Germany. God and the devil Méphistophélès bet the soul of Faust. Méphistophélès insists that Faust, a scholar who is full of poetry and knowledge, will gradually degenerate under the temptation of desire, and God believes in Faust. Rationality will eventually defeat desire."
 act-brief: |
-  Act I - Inn Faust's cabinet. Faust, an aging scholar, determines to dead because his studies have come to nothing (both love and life).  persuades Faust to buy Méphistophélès's services on Earth in exchange for Faust's in Hell. Faust's goblet of poison can transform people into an elixir of youth. Then, it makes the aged doctor a handsome young gentleman. 
-  Act II - At the city gates. Méphistophélès maligns Marguerite, and Valentin tries to strike him with his sword, then Faust declares his admiration, but she refuses Faust's arm out of modesty, a quality that makes him love her even more.
-  Act III - In Marguerite's garden. The lovesick boy Siébel leaves a bouquet for Marguerite. It is clear that Faust's seduction of Marguerite will be successful.
-  Act IV - Marguerite goes to the church and tries to pray but she is cursed again by Méphistophélès.
-  Act V - Faust sees a vision of Marguerite and calls for her. Méphistophélès helps Faust enter the prison where Marguerite is being held for killing her child. Méphistophélès states that only a mortal hand can deliver Marguerite from her fate. However, Marguerite's soul still rises to heaven. In despair Faust follows it with his eyes; he falls to his knees and prays.
+  _**Act I**_ - Inn Faust's cabinet. Faust, an aging scholar, determines to dead because his studies have come to nothing (both love and life).  persuades Faust to buy Méphistophélès's services on Earth in exchange for Faust's in Hell. Faust's goblet of poison can transform people into an elixir of youth. Then, it makes the aged doctor a handsome young gentleman.   
+
+  _**Act II**_ - At the city gates. Méphistophélès maligns Marguerite, and Valentin tries to strike him with his sword, then Faust declares his admiration, but she refuses Faust's arm out of modesty, a quality that makes him love her even more.  
+
+  _**Act III**_ - In Marguerite's garden. The lovesick boy Siébel leaves a bouquet for Marguerite. It is clear that Faust's seduction of Marguerite will be successful.  
+
+  _**Act IV**_ - Marguerite goes to the church and tries to pray but she is cursed again by Méphistophélès.  
+
+  _**Act V**_ - Faust sees a vision of Marguerite and calls for her. Méphistophélès helps Faust enter the prison where Marguerite is being held for killing her child. Méphistophélès states that only a mortal hand can deliver Marguerite from her fate. However, Marguerite's soul still rises to heaven. In despair Faust follows it with his eyes; he falls to his knees and prays.  
   (wikipedia, 2021)
 
 transition: "When neither faith nor knowledge can save the world, can we use the power of the devil? After summoning the devil, is it possible to maintain the purity of the heart? Can human beings overcome endless desires? Let's see what will happen when Faust goes on the stage..."

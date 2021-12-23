@@ -17,14 +17,16 @@ category: "Opera and Musicals"
 tags: 1990s, Youth, Classics, ABBA, Love, Female, West End, Broadway, Popular
 
 synopsis: |
-  The story tells the story of a mother and her daughter who lived by opening a restaurant on a small Greek island. Her daughter is about to get married. She hopes that her father can personally hand over her to her husband on the wedding, but her mother never told her who is her father. Before getting married, she took a peek at her mother's diary and found that her mother had three lovers who were most likely her biological father. In a hurry, she sent three invitations based on the old letter address she found. They attended her wedding...
+  The story tells the story of a mother and her daughter who lived by opening a restaurant on a small Greek island. Her daughter is about to get married. She hopes that her father can personally hand over her to her husband on the wedding, but her mother never told her who is her father. Before getting married, she took a peek at her mother's diary and found that her mother had three lovers who were most likely her biological father. In a hurry, she sent three invitations based on the old letter address she found. They attended her wedding...  
+  
   Who is the biological father of this daughter? Mother meets these three old lovers again without knowing it, will she anger her daughter? How does she face these three old lovers? As for the three men who are most likely to be the heroine's fathers, which one is the real father? Will this wedding turn from a happy event to a "pot of porridge"? …
 
 act-brief: |
-  Act I - The day before the wedding. 
-  With the orchestra voice, Sophie told her sisters that they took a peek at their mother's diary and found three objects that might be fathers. Now all three of them have agreed to come to their wedding, and she still has 24 hours to find out who is her father.
-  Act II - Wedding day.
-  Sophie's having a nightmare in which her three fathers all fight for the right to walk her down the aisle. As Sophie storms out of the room, Sam's behaviours made Sophie hate him, and she isn't consoled with any fatherly advice that Sam gave to Sophie..Then, Sky accuses Sophie of wanting a big white wedding only so that she can find out who her father is. He's very hurt that she kept this plan a secret from him.
+  _**Act I**_ - The day before the wedding.   
+  With the orchestra voice, Sophie told her sisters that they took a peek at their mother's diary and found three objects that might be fathers. Now all three of them have agreed to come to their wedding, and she still has 24 hours to find out who is her father.  
+
+  _**Act II**_ - Wedding day.
+  Sophie's having a nightmare in which her three fathers all fight for the right to walk her down the aisle. As Sophie storms out of the room, Sam's behaviours made Sophie hate him, and she isn't consoled with any fatherly advice that Sam gave to Sophie..Then, Sky accuses Sophie of wanting a big white wedding only so that she can find out who her father is. He's very hurt that she kept this plan a secret from him.  
   After a very messy situation at the wedding, Sophie calls a halt to the proceedings. Sam seizes this chance and proposes to Donna. In the end, Sam and Donna are married, and at the end of the night, Sophie and Sky depart on a round-the-world tour.
 transition: |
   "Mamma Mia" made an unprecedented sensation when it premiered in London. Celebrities around the world flocked to watch with the general audience. The number of viewers of this musical broke the London box office record (thisistheatre.com, 2021), and London traffic was even more paralyzed. Here are more information about the premiere you might be interested in...
