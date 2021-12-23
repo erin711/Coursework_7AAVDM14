@@ -7,10 +7,14 @@ image-url: "https://upload.wikimedia.org/wikipedia/commons/1/13/Les_Miserables_%
 img-creator: "Memorial Student Center Texas A&M University"
 licence: "CC BY 2.0"
 
+original-work-name: of the same name
+original-work-type: French historical novel
+original-work-year: 1862
+original-work-url: https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables
 writer: "Victor Hugo"
 
 category: "Opera and Musicals"
-tag: 1980s, Tragedy, Classics, Justice, Love, Redemption, Revolution, West End
+tags: 1980s, Tragedy, Classics, Justice, Love, Redemption, Revolution, West End
 
 synopsis: "The story is based on the Republican rebellion in Paris in 1832. It tells the arduous journey of the protagonist Jean Valjean who was sentenced to a severe sentence many years ago. After parole, he planned to be a new being and change the society, while he encountered various difficulties..."
 act-brief: |
@@ -19,8 +23,8 @@ act-brief: |
   Act II - The rebellion failed, the battle ended. The world did not seem to be changed. Wirh the care of Cosette, Marius recovered day by day, but he did not know who saved him. Before the wedding of Cosette and Marius, Thénardier came uninvited, and Marius knew that the savior was Jean Valjean. He immediately rushed to Jean Valjean's residence, but Jean Valjean was dying. Finally, accompanied by his relatives, Valjean left the world...(wikipedia, 2021)"
 
 transition: |
-  "The musical \"Les Miserables\" has been translated into 22 languages so far. It was once selected by the BBC as "Number One Essential Musicals" (the most indispensable musical in the hearts of the audience). It has been performed continuously for more than 30 years, making it the longest-running musical in the West End of London (RedScarf, 2021).
-  Let's look at some details about its successful premiere..."
+  The musical \"Les Miserables\" has been translated into 22 languages so far. It was once selected by the BBC as "Number One Essential Musicals" (the most indispensable musical in the hearts of the audience). It has been performed continuously for more than 30 years, making it the longest-running musical in the West End of London (RedScarf, 2021).
+  Let's look at some details about its successful premiere...
 
 performance-date: "1980"
 performance-country: "France"
@@ -32,9 +36,18 @@ directer-img-licence: "CC BY-SA 4.0"
 scriptwriter: "Claude-Michel Schönberg (Music), Alain Boublil and Jean-Marc Natel (Original French Lyrics), Herbert Kretzmer (English Lyrics)"
 
 references: |
-  "wikipedia.org. 2021. Les Misérables (musical) - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(musical)#Synopsis> [Accessed 13 December 2021].
+  wikipedia.org. 2021. Les Misérables (musical) - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(musical)#Synopsis> [Accessed 13 December 2021].
   
-   RedScarf. 2021. Les Misérables | Musicals You Must See in London. [online] Available at: <https://www.honglingjin.co.uk/211544.html> [Accessed 13 December 2021]."
+  RedScarf. 2021. Les Misérables | Musicals You Must See in London. [online] Available at: <https://www.honglingjin.co.uk/211544.html> [Accessed 13 December 2021].
+
+music1: Bring Him Home
+music1-url: https://www.youtube.com/watch?v=JMGMSgPHJoI
+
+music2: One Day More
+music2-url: https://www.youtube.com/watch?v=DLKO4kN4Z1k
+
+music3: I Dreamed A Dream
+music3-url: https://www.youtube.com/watch?v=-p6OH7FoWoQ
 
 layout: exhibit
 ---

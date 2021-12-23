@@ -7,10 +7,14 @@ image-url: "https://upload.wikimedia.org/wikipedia/commons/b/ba/La_Boh%C3%A8me_5
 img-creator: "Bengt Nyman"
 licence: "CC BY 2.0"
 
+original-work-name: Scènes de la vie de bohème
+original-work-type: novel (a collection of loosely related stories)
+original-work-year: 1851
+original-work-url: https://en.wikipedia.org/wiki/Scenes_of_Bohemian_Life
 writer: "Henri Murger"
 
 category: "Opera and Musicals"
-tag: 1900s, Romance, Classics, Music, Italian, Tragedy, Passion
+tags: 1900s, Romance, Classics, Music, Italian, Tragedy, Passion
 
 synopsis: |
   "A sad love story of Rodolfo and Mimì. When the penniless poet Rodolfo met the tailor Mimì, they immediately fell in love. But when Rodolfo learned that Mimì was seriously ill, their happiness is threatened.
@@ -30,7 +34,7 @@ performance-date: "17 February 1904"
 performance-country: "Italia"
 performance-city: "Milan"
 performance-venue: "La Scala"
-director: "Giacomo Puccini "
+director: "Giacomo Puccini"
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GiacomoPuccini.jpg/815px-GiacomoPuccini.jpg"
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter: "Luigi Illica and Giuseppe Giacosa (Italian Libretto)"
@@ -38,6 +42,12 @@ reference: |
   "eno.org. 2021. Puccini's La bohème [online] Available at: <https://www.eno.org/operas/la-boheme/ and https://www.roh.org.uk/tickets-and-events/la-boheme-stream-details> [Accessed 13 December 2021].
 
   roh.org.uk. 2021. La bohème (2020). [online] Available at: <https://www.roh.org.uk/tickets-and-events/la-boheme-stream-details> [Accessed 13 December 2021]."
+
+music1: Music from Act I (The Royal Opera)
+music1-url: https://www.youtube.com/watch?v=2jrMG149Rio
+
+music2: Quando m'en vo
+music2-url: https://www.youtube.com/watch?v=Sg1nct9Ow4U
 
 layout: exhibit
 ---

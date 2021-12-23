@@ -1,16 +1,20 @@
 ---
 title: "The Valkyrie"
-drama-url: "https://en.wikipedia.org/wiki/La_boh%C3%A8me"
+drama-url: "https://en.wikipedia.org/wiki/Die_Walk%C3%BCre"
 brief-introduction: "Family feuds can destroy worlds."
 img-name: "German operatic bass Renatus Mészár as Wotan in Die Walküre, in 2008"
 image-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Renatus_M%C3%A9sz%C3%A1r_as_Wotan_in_Die_Walk%C3%BCre.jpg/1599px-Renatus_M%C3%A9sz%C3%A1r_as_Wotan_in_Die_Walk%C3%BCre.jpg"
 img-creator: "Arthaus Musik GmbH"
 licence: "CC BY-SA 3.0"
 
+original-work-name: Der Ring des Nibelungen
+original-work-type: second of four music dramas
+original-work-year: 1939
+original-work-url: https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen
 writer: "Richard Wagner"
 
 category: "Opera and Musicals"
-tag: 1870s, Tragedy, Mythology, Epic, Twins
+tags: 1870s, Tragedy, Mythology, Epic, Twins
 
 synopsis: "The twin children of Wotan, the lord of the gods, Sieglinde and Siegmund, fell in love without knowing it. Later, Siegmund was punished and died by Wotan; A daughter, one of the Valkyries, escaped with the help of Brunheed; Brunheed was punished by Wotan and locked on the mountain."
 act-brief: |
@@ -31,7 +35,16 @@ directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Richard_W
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter: 
 references: |
-  "eno.org. 2021. The Valkrie | Opera | English National Opera. [online] Available at: <https://www.eno.org/operas/the-valkyrie/> [Accessed 13 December 2021]."
+  eno.org. 2021. The Valkrie | Opera | English National Opera. [online] Available at: <https://www.eno.org/operas/the-valkyrie/> [Accessed 13 December 2021].
+
+music1: Siegmund's Spring Song (in Act I)
+music1-url: https://www.youtube.com/watch?v=TX6WB_RRozg
+
+music2: Musetta's Waltz (in Act II)
+music2-url: https://www.youtube.com/watch?v=360M9RXb_Xs
+
+music3: Ride of the Valkyries - Ring (in Act III)
+music3-url: https://www.youtube.com/watch?v=xeRwBiu4wfQ
 
 layout: exhibit
 ---

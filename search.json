@@ -12,7 +12,6 @@
       "writer"   : "{{ exhibit.writer }}",
       "director" : "{{ exhibit.director }}",
       "date"     : "{{ exhibit.performance-date | date: "%Y" }}",
-      "text"     : "{{ exhibit.synopsis }}{{ exhibit.act-brief }}"
 
     }{% unless forloop.last %},{% endunless %} 
   {% endfor %}

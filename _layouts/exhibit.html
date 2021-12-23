@@ -4,11 +4,12 @@
 <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-  </head>
+</head>
   <body>
     <div class="container">
         <nav>
-            <a href="{{ site.baseurl }}/">Top Picks</a>
+            <a href="{{ site.baseurl }}/">Little Life in Drama</a>
+            <a href="{{ site.baseurl }}/top_picks">Top Picks</a>
             <a href="{{ site.baseurl }}/plays">Plays</a>
             <a href="{{ site.baseurl }}/opera_and_musicals">Opera and Musicals</a>
             <a href="{{ site.baseurl }}/dance">Dance</a>
@@ -19,14 +20,48 @@
     
     <div class="wrapper">
        
-        {% assign licences = site.data.licences | find: "image-licence", page.image-licence %}
+        {% assign licences = site.data.licences | find: "licence", page.licence %}
         {% assign writers = site.data.writers | find: "writer", page.writer %}
+        {% assign theatres = site.data.theatres | find: "theatre", page.performance-venue %}
+        {% assign characters = site.data.characters %}
 
         <h1><a href="{{ page.drama-url }}">{{ page.title }}</a></h1>
-        <h3><a href="{{ writers.writer-url }}">{{ page.writer }}</a></h3>
+        <p><strong>Category: </strong><a href="{{ site.baseurl }}/opera_and_musicals" title="Click for more fantastic opera and musicals!">{{ page.category }}</a></p>
+        <p><strong>Tags: </strong>{{ page.tags }}</p>
         <p>{{ page.brief-introduction }}</p>
-        <img src="{{ page.image-url }}" width = 500></a>
-        <p>The world premiere</p>
+
+        <h3>Back to the Original </h3>
+        <p>The original work of this stage show is based on {{ page.original-work-year }} {{ page.original-work-type }} 
+            <a href="{{ page.original-work-url }}">{{ page.original-work-name }}</a> by <a href="{{ writers.writer-url }}">{{ page.writer }}</a></p>
+        <p>{{ page.synopsis | markdownify }}</p>
+        <p>{{ page.transition | markdownify }}</p>
+
+        <img src="{{ page.image-url }}" width = 900></a><br>
+        "<a href="{{ page.image-url }}">{{ page.img-name }}</a>" by {{ page.img-creator }} is under <a href="{{ licences.licence-url }}">{{ page.licence }}</a>
+
+        <h3>About the Premiere of the Classic Melody</h3>
+        <ul>
+            <li><strong>Debute Date:</strong> {{ page.performance-date }}</li>
+            <li><strong>Premiere Place:</strong> {{ page.performance-city }}, {{ page.performance-country }}</li>
+            <li><strong>Premiere Venue:</strong> <a href="{{ theatres.theatre-url }}">{{ page.performance-venue }}</a></li>
+        </ul>
+
+        <h3>Synopsis of Act</h3>
+        <p>{{ page.act-brief | markdownify }}</p>
+
+        <img src="{{ page.directer-img-url }}" width = 200>
+        <p><strong>Directed by</strong> {{ page.director }}</p>
+        <p><strong>Production Team Information:</strong> {{ page.scriptwriter }}</p>
+
+        <h3>Melodies Lingering</h3>
+        <ul>
+            <li><a href="{{ page.music1-url }}">{{ page.music1 }}</a></li>
+            <li><a href="{{ page.music2-url }}">{{ page.music2 }}</a></li>
+            <li><a href="{{ page.music3-url }}">{{ page.music3 }}</a></li>
+        </ul>
+
+
+
     </div>
 
   </body>
