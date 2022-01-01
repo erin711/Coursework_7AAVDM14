@@ -1,5 +1,5 @@
 ---
-title: opera and musicals
+title: Opera and Musicals
 layout: index
 ---
 
