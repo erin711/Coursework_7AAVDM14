@@ -3,7 +3,11 @@ title: Swan Lake 
 drama-url: "https://en.wikipedia.org/wiki/Swan_Lake"
 brief-introduction: "Swan Lake is now performed all over the world, and the biggest difference is that what was originally a tragic ending sometimes becomes a happy one."
 img-name: "Swan lake Ballets Russes"
+<<<<<<< HEAD
 image-url: "https://upload.wikimedia.org/wikipedia/commons/7/75/%22Swan_lake%22%2C_Ballets_Russes.jpg"
+=======
+image-url: "https://commons.wikimedia.org/wiki/File:%22Swan_lake%22,_Ballets_Russes.jpg"
+>>>>>>> 63472338ba83f613deea4c6387966be286519b69
 img-creator: "Charleston, Alan"
 licence: "CC BY 3.0"
 
@@ -13,7 +17,11 @@ original-work-year:
 original-work-url: "https://en.wikipedia.org/wiki/The_White_Duck"
 writer: "Julius Reisinger"
 
+<<<<<<< HEAD
 category: "Dance"
+=======
+category: "dance drama"
+>>>>>>> 63472338ba83f613deea4c6387966be286519b69
 tags: "1870s, ballet, Classics, Music, tragedy"
 synopsis: "The scenario, originally divided into two acts, is based on Russian and German folk tales about Princess Odette who is turned into a swan by an evil wizard's curse"
 act-brief: |
@@ -33,7 +41,11 @@ performance-country: "Russia"
 performance-city: "Moscow"
 performance-venue: "Bolshoi Theatre"
 director: "Pyotr Ilyich Tchaikovsky"
+<<<<<<< HEAD
 directer-img-url: "https://upload.wikimedia.org/wikipedia/en/2/26/Chaykovskiy.jpg"
+=======
+directer-img-url: "https://en.wikipedia.org/wiki/File:Chaykovskiy.jpg"
+>>>>>>> 63472338ba83f613deea4c6387966be286519b69
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter: "Pyotr Ilyich Tchaikovsky (composer), Julius Reisinger (choreographer), Riccardo Drigo(conductor and composer)"
 

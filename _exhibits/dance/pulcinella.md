@@ -3,7 +3,11 @@ title: "Pulcinella"
 drama-url: "https://en.wikipedia.org/wiki/Pulcinella_(ballet)"
 brief-introduction: "Pulcinella's diversity of status and attitudes has captivated audiences worldwide and made the character popular in numerous forms since it was introduced to the commedia dell'arte by Silvio Fiorillo in 1620"
 img-name: "Punchinello"
+<<<<<<< HEAD
 image-url: "https://upload.wikimedia.org/wikipedia/commons/f/f9/SAND_Maurice_Masques_et_bouffons_12.jpg"
+=======
+image-url: "https://en.wikipedia.org/wiki/Pulcinella_(ballet)#/media/File:SAND_Maurice_Masques_et_bouffons_12.jpgimg-creator: Umnov / Умнов"
+>>>>>>> 63472338ba83f613deea4c6387966be286519b69
 licence: "Creative Commons Public Domain Mark 1.0 License"
 original-work-name: "of the Atellan farce"
 original-work-type: "two stock characters"
@@ -11,7 +15,11 @@ original-work-year:
 original-work-url: "https://en.wikipedia.org/wiki/Atellan_Farce"
 writer: "Igor Stravinsky"
 
+<<<<<<< HEAD
 category: "Dance"
+=======
+category: "Dance Drama"
+>>>>>>> 63472338ba83f613deea4c6387966be286519b69
 
 tag: "1920s，Classics, comedy, Music, traditional"
 synopsis: |
@@ -29,7 +37,11 @@ performance-country: "France"
 performance-city: "Paris"
 performance-venue: "Paris Opera"
 director: "Ernest Ansermet"
+<<<<<<< HEAD
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/d/d0/ErnestAnsermet.jpg"
+=======
+directer-img-url: "https://commons.wikimedia.org/wiki/File:ErnestAnsermet.jpg"
+>>>>>>> 63472338ba83f613deea4c6387966be286519b69
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter: "Léonide Massine (libretto and choreography),  Pablo Picasso (designer)"
 
