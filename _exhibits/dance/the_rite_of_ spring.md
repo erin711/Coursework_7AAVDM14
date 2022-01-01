@@ -3,11 +3,7 @@ title: The Rite of Spring
 drama-url: "https://en.wikipedia.org/wiki/The_Rite_of_Spring"   
 brief-introduction: "It depicts various primitive rituals to celebrate the arrival of spring, after which a young girl is chosen as a victim and dances to her death." 
 img-name: "Roerich Rite of Spring"   
-<<<<<<< HEAD
 image-url: "https://upload.wikimedia.org/wikipedia/commons/6/62/Roerich_Rite_of_Spring.jpg"   
-=======
-image-url: "https://commons.wikimedia.org/wiki/File:Roerich_Rite_of_Spring.jpg"   
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 img-creator: "Nicholas Roerich"   
 licence: "Creative Commons Public Domain Mark 1.0 License"   
 
@@ -17,11 +13,7 @@ original-work-year: "1907–08"
 original-work-url: 
 writer: 
 
-<<<<<<< HEAD
 category: "Dance"
-=======
-category: "dance drama"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 tags: "1910s, Classics, Music, episodes "
 synopsis: "The work is unified by a single idea: Spring, which has no specific plot or narrative and should be seen as a series of carefully choreographed episodes"     
 act-brief: |
@@ -38,11 +30,7 @@ performance-country: "France"
 performance-city: "Paris"
 performance-venue: "Théâtre des Champs-Élysées"
 director: "Igor Stravinsky"
-<<<<<<< HEAD
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Igor_Stravinsky_LOC_32392u.jpg/991px-Igor_Stravinsky_LOC_32392u.jpg"
-=======
-directer-img-url: "https://commons.wikimedia.org/wiki/File:Igor_Stravinsky_LOC_32392u.jpg"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter:  "Igor Stravinsky(composer), Vaslav Nijinsky(choreographer), Nicholas Roerich(stage designs and costumes)"
 

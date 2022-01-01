@@ -3,11 +3,7 @@ title: "Romeo and Juliet"
 drama-url: "https://en.wikipedia.org/wiki/Romeo_and_Juliet_(Prokofiev)"
 brief-introduction: "It's a ballet by Sergei Prokofiev based on Shakespeare's Romeo and Juliet"
 img-name: "Romeo And Juliet"
-<<<<<<< HEAD
 image-url: "https://upload.wikimedia.org/wikipedia/commons/6/6c/RIAN_archive_11591_Galina_Ulanova_and_Yury_Zhdanov_in_the_ballet_%22Romeo_And_Juliet%22.jpg"
-=======
-image-url: "https://commons.wikimedia.org/wiki/File:RIAN_archive_11591_Galina_Ulanova_and_Yury_Zhdanov_in_the_ballet_%22Romeo_And_Juliet%22.jpg"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 img-creator: "Umnov / Умнов"
 licence: "CC BY 3.0"
 
@@ -17,11 +13,7 @@ original-work-year: "1935"
 original-work-url: "https://en.wikipedia.org/wiki/Romeo_and_Juliet"
 writer: "William Shakespeare"
 
-<<<<<<< HEAD
 category: "Dance"
-=======
-category: "dance drama"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 tag: "1930s，Romance, Classics, ballet"
 synopsis: "Romeo and Juliet is the story of two star-crossed lovers in young Italy. It was one of Shakespeare's most popular plays during his lifetime"
 act-brief: |
@@ -39,11 +31,7 @@ performance-country: "Czech republic"
 performance-city: "Brno"
 performance-venue: "Mahen Theatre"
 director: "Sergei Prokofiev"
-<<<<<<< HEAD
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg/972px-Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg"
-=======
-directer-img-url: "https://commons.wikimedia.org/wiki/File:Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter: "Sergei Prokofiev (Music), Ivo Váňa-Psota (Choreographer)"
 

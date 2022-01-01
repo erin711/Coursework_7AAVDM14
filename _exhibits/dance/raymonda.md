@@ -3,11 +3,7 @@ title: "Raymonda" 
 drama-url: "https://en.wikipedia.org/wiki/Raymonda"
 brief-introduction: "Raymonda is a ballet in three acts and four scenes, the pinnacle of ballet."
 img-name: "Raymonda, CND, José Carlos Martínez"
-<<<<<<< HEAD
 image-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Raymonda%2C_CND%2C_Jos%C3%A9_Carlos_Mart%C3%ADnez.jpg/1600px-Raymonda%2C_CND%2C_Jos%C3%A9_Carlos_Mart%C3%ADnez.jpg"
-=======
-image-url: "https://commons.wikimedia.org/wiki/File:Raymonda,_CND,_Jos%C3%A9_Carlos_Mart%C3%ADnez.jpg"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 img-creator: "Maite villanueva"
 licence: "CC BY 3.0"
 
@@ -16,11 +12,7 @@ original-work-type:
 original-work-year: 
 original-work-url: 
 writer: "Lidiya Pashkova"
-<<<<<<< HEAD
 category: "Dance"
-=======
-category: "dance drama"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 tag: "1890s，ballet, Classics, Music"
 synopsis: "The complete Ramonda has been revived many times in its performing history"
 act-brief: |
@@ -43,11 +35,7 @@ performance-country: "Russia"
 performance-city: "Saint Petersburg"
 performance-venue: "Imperial Mariinsky Theatre" 
 director: "Marius Petipa"
-<<<<<<< HEAD
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Marius_Ivanovich_Petipa_-Feb._14_1898.JPG/882px-Marius_Ivanovich_Petipa_-Feb._14_1898.JPG"
-=======
-directer-img-url: "https://commons.wikimedia.org/wiki/File:Marius_Ivanovich_Petipa_-Feb._14_1898.JPG"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter:  "Marius Petipa (Choreographer), Alexander Glazunov (Music),Lidiya Pashkova(Libretto), Riccardo Drigo (Conductor)"
 

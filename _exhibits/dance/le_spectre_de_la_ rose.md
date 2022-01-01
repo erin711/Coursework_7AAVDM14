@@ -3,11 +3,7 @@ title: "Le Spectre de la rose" 
 drama-url: "https://en.wikipedia.org/wiki/Le_Spectre_de_la_rose"
 brief-introduction: "Grace Robert wrote that Le Specter de la Rose was an immediate success"
 img-name: "Spectre de la rose karsavina and nijinsky 1911"
-<<<<<<< HEAD
 image-url: "https://upload.wikimedia.org/wikipedia/commons/8/85/Spectre_de_la_rose_karsavina_and_nijinsky_1911.jpg"
-=======
-image-url: "https://commons.wikimedia.org/wiki/File:Spectre_de_la_rose_karsavina_and_nijinsky_1911.jpg"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 img-creator: "Unknown"
 licence: "Creative Commons Public Domain Mark 1.0 License"
 
@@ -17,11 +13,7 @@ original-work-year:
 original-work-url: 
 writer: "Jean-Louis Vaudoyer"
 
-<<<<<<< HEAD
 category: "Dance"   
-=======
-category: "dance drama"   
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 tags: "1910s, ballet, Neo-Classical, Fantasy"  
 synopsis: "Le Spectre de la rose is a short ballet about a young girl who dreams of dancing with the spirit of the rose at the first ball"   
 act-brief: |
@@ -35,11 +27,7 @@ performance-country: "Monaco"
 performance-city: "Monte Carlo"  
 performance-venue: "Théâtre de Monte-Carlo"  
 director: "Sergei Diaghilev"
-<<<<<<< HEAD
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dyagilev_SP.jpg"
-=======
-directer-img-url: "https://commons.wikimedia.org/wiki/File:Dyagilev_SP.jpg"
->>>>>>> 63472338ba83f613deea4c6387966be286519b69
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter:  "Michel Fokine (choreographer), Jean-Louis Vaudoyer(Libretto), Léon Bakst(sets and costumes)"
 
