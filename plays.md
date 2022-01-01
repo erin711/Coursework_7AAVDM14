@@ -1,10 +1,10 @@
 ---
-title: Play
+title: Plays
 layout: index
 ---
 
 
-{% assign plays = site.exhibits | where: "category", "plays" %}
+{% assign plays = site.exhibits | where: "category", "play" %}
 {% assign title_alphabetical = plays | sort: "title" %}
 {% for one in title_alphabetical %}
  
