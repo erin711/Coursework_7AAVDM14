@@ -1,0 +1,262 @@
+---
+title: Theatres in London
+layout: index
+---
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Explore Drama Around you</title>
+
+    <style type="text/css">
+      /* Set the size of the div element that contains the map */
+      #map {
+        height: 500px;
+        /* The height is 400 pixels */
+        width: 70%;
+        /* The width is the width of the web page */
+      }
+    </style>
+
+    <script>
+      // Initialize and add the map
+      function initMap() {
+        // The location of theatre
+        const london_eye = { lat: 51.503399, lng: -0.119519 };
+        const Shakespeares_Globe_Theatre = { lat: 51.508021, lng: -0.097074 };
+        const Her_Majestys_Theatre = { lat: 51.5082, lng: -0.132006 };
+        const Lyceum_Theatre = { lat: 48.002651, lng: 0.001610 };
+        const Piccadilly_Theatre = { lat: 51.511054, lng: -0.13539988 };
+        const Queens_Theatre = { lat: 51.565314, lng: 0.21961927 };
+        const Theatre_Royal_Stratford_East = { lat: 51.542512, lng: 0.00095679108 };
+        const Unicorn_Theatre = { lat: 51.504076, lng: -0.081304436 };
+        const Regents_Park_Open_Air_Theatre = { lat: 51.527215, lng: -0.15539847 };
+        const London_Coliseum = { lat: 51.509911, lng: -0.1262955 };
+        const Barbican = { lat: 51.519812, lng: -0.093918626 };
+        const National_Theatre = { lat: 51.507199, lng: -0.11362502 };
+        const Royal_Opera_House = { lat: 51.513282, lng: -0.12343335 };
+        const Young_Vic = { lat: 51.503276, lng: -0.10731743 };
+        const Sadlers_Wells = { lat: 51.529409, lng: -0.10624822 };
+        const Apollo_Theatre = { lat: 51.511592, lng: -0.13360530 };
+        const Palace_Theatre = { lat: 51.513167, lng: -0.12970734 };
+
+
+        // The map, centered at london
+        const map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 13,
+          center: london_eye,
+        });
+
+        // The marker, positioned at different theatres
+        const marker1 = new google.maps.Marker({
+          position: Shakespeares_Globe_Theatre,
+          map: map,
+          label: "Shakespeare's Globe Theatre",
+        url: 'https://www.shakespearesglobe.com'
+        });
+        
+        const marker2 = new google.maps.Marker({
+          position: Her_Majestys_Theatre,
+          map: map,
+          label: "Her Majesty's Theatre",
+        url: 'https://lwtheatres.co.uk/'
+        });
+
+        const marker3 = new google.maps.Marker({
+          position: Piccadilly_Theatre,
+          map: map,
+          label: 'Piccadilly Theatre',
+        url: 'https://www.thepiccadillytheatre.com/'
+        });
+
+        const marker4 = new google.maps.Marker({
+          position: Lyceum_Theatre,
+          map: map,
+          label: 'Lyceum Theatre',
+        url: 'https://www.lyceumtheatrelondon.com/'
+        });
+
+        const marker5 = new google.maps.Marker({
+          position: Queens_Theatre,
+          map: map,
+          label: 'Queens Theatre',
+        url: 'https://www.queens-theatre.co.uk/'
+        });
+
+        const marker6 = new google.maps.Marker({
+          position: The_Old_Vic,
+          map: map,
+          label: 'The Old Vic',
+        url: 'https://www.oldvictheatre.com/'
+        });
+
+        const marker7 = new google.maps.Marker({
+          position: Royal_Opera_House,
+          map: map,
+          label: 'Royal Opera House',
+        url: 'https://www.roh.org.uk/'
+        });
+
+        const marker8 = new google.maps.Marker({
+          position: Unicorn_Theatre,
+          map: map,
+          label: 'Unicorn Theatre',
+        url: 'https://www.unicorntheatre.com/'
+        });
+
+        const marker9 = new google.maps.Marker({
+          position: Regents_Park_Open_Air_Theatre,
+          map: map,
+          label: 'Regents Park Open Air Theatre',
+        url: 'https://openairtheatre.com/'
+        });
+
+        const marker10 = new google.maps.Marker({
+          position: London_Coliseum,
+          map: map,
+          label: 'London Coliseum',
+        url: 'https://londoncoliseum.org/'
+        });
+
+        const marker11 = new google.maps.Marker({
+          position: Apollo_Theatre,
+          map: map,
+          label: 'Apollo Theatre',
+        url: 'https://www.apollotheatrelondon.co.uk/'
+        });
+
+        const marker12 = new google.maps.Marker({
+          position: Barbican,
+          map: map,
+          label: 'Barbican',
+        url: 'https://www.barbican.org.uk'
+        });
+
+        const marker13 = new google.maps.Marker({
+          position: National_Theatre,
+          map: map,
+          label: 'National Theatre',
+        url: 'https://www.nationaltheatre.org.uk/'
+        });
+
+        const marker14 = new google.maps.Marker({
+          position: Sadlers_Wells,
+          map: map,
+          label: "Sadler's Wells",
+        url: 'https://www.sadlerswells.com/'
+        });
+
+        const marker15 = new google.maps.Marker({
+          position: Young_Vic,
+          map: map,
+          label: 'Young Vic',
+        url: 'https://www.youngvic.org/'
+        });
+
+        const marker16 = new google.maps.Marker({
+          position: Palace_Theatre,
+          map: map,
+          label: 'Palace Theatre',
+        url: 'https://www.palacetheatrelondon.org/'
+        });
+
+
+       
+      google.maps.event.addListener(marker1,'click',function(){
+      //window.location.href=marker1.url;
+      window.open(marker1.url,'_blank');
+      });
+
+      google.maps.event.addListener(marker2,'click',function(){
+      //window.location.href=marker2.url;
+      window.open(marker2.url,'_blank');
+      });
+
+      google.maps.event.addListener(marker3,'click',function(){
+      //window.location.href=marker3.url;
+      window.open(marker3.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker4,'click',function(){
+      //window.location.href=marker4.url;
+      window.open(marker4.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker5,'click',function(){
+      //window.location.href=marker5.url;
+      window.open(marker5.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker6,'click',function(){
+      //window.location.href=marker6.url;
+      window.open(marker6.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker7,'click',function(){
+      //window.location.href=marker7.url;
+      window.open(marker7.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker8,'click',function(){
+      //window.location.href=marker8.url;
+      window.open(marker8.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker9,'click',function(){
+      //window.location.href=marker9.url;
+      window.open(marker9.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker10,'click',function(){
+      //window.location.href=marker10.url;
+      window.open(marker10.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker11,'click',function(){
+      //window.location.href=marker11.url;
+      window.open(marker11.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker12,'click',function(){
+      //window.location.href=marker12.url;
+      window.open(marker12.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker13,'click',function(){
+      //window.location.href=marker13.url;
+      window.open(marker13.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker14,'click',function(){
+      //window.location.href=marker14.url;
+      window.open(marker14.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker15,'click',function(){
+      //window.location.href=marker15.url;
+      window.open(marker15.url,'_blank');
+      });
+    
+      google.maps.event.addListener(marker16,'click',function(){
+      //window.location.href=marker16.url;
+      window.open(marker16.url,'_blank');
+      });
+
+      }
+    </script>
+  </head>
+  <body>
+    <h2>How can modern "Dramaers" explore their fantastic stage life in London?</h2>
+    <p>This Dramaer Map supports <span id="theatre-number">15+</span> famous theatres located in big london.</p>
+    <p>Try to drag the map, click the theatre you are interested in and find more rich information here!</p>
+    <!--The div element for the map -->
+    <div id="map"></div>
+
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAk6RtkFRUnhr86jqTgVumZzS6EPzIa4TU&callback=initMap&libraries=&v=weekly"
+      async
+    ></script>
+  </body>
+</html>

@@ -53,5 +53,8 @@ music1-url: https://www.youtube.com/watch?v=2jrMG149Rio
 music2: Quando m'en vo
 music2-url: https://www.youtube.com/watch?v=Sg1nct9Ow4U
 
+music3: "'Che gelida manina' aria (The Royal Opera)"
+music3-url: https://www.youtube.com/watch?v=--L3uqoQUV4
+
 layout: exhibit
 ---

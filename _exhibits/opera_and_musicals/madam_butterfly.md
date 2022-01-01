@@ -46,6 +46,8 @@ music1-url: https://www.youtube.com/watch?v=CTT5FlTvz4A
 music2: "Maria Callas"
 music2-url: https://www.youtube.com/watch?v=tmfw17L_Deo
 
+music3: "Vogliatemi bene"
+music3-url: https://www.youtube.com/watch?v=cmaQfmg0Rk0
 
 layout: exhibit
 ---

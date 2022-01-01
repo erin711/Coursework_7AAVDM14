@@ -16,7 +16,7 @@ writer: "Giovanni Verga"
 category: "Opera and Musicals"
 tags: 1890s, Tragedy, Romance, Historical, God, Philosophy, Fantasy
 
-synopsis: "Cavalleria Rusticana is based on the real life of an ordinary farmer in Sicily, Italy. It describes the "relationship" between the farmer Turiddu and his ex girlfriend Lola after his marriage, which made his wife Santuzza very angry. Santuzza told Lola's husband about the matter, the two men were in a duel, and Turiddu was killed."
+synopsis: "Cavalleria Rusticana is based on the real life of an ordinary farmer in Sicily, Italy. It describes the \"relationship\" between the farmer Turiddu and his ex girlfriend Lola after his marriage, which made his wife Santuzza very angry. Santuzza told Lola's husband about the matter, the two men were in a duel, and Turiddu was killed."
 act-brief: |
   _**Act I**_ - In a easter morning, in a 19th-century Sicilian village.  
   The story takes place in front of a tavern in a square in the Sicilian countryside. Lucia learns that her son Turiddu has betrayed his wife Santuzza and has made love to Lola, the wife of the driver Alfio. Santuzza persuaded him to correct his evil, but he refused, and still walked into the church with the flamboyant Lola. Santuzza had to tell Alfio that Lola had hooked up with her husband. Alfio challenges Turiddu, and the two sides agree to a duel. Turiddu came to bid farewell to her mother Lucia, and asked her to treat Santuzza like a mother, and left. After that, Santuzza came to Luzia, hugged the poor old woman and started crying... At this time, a woman came from a distance shouting loudly -- "They killed Turiddu!" Santuzza suddenly fainted to the ground (wikipedia, 2021).  
@@ -40,8 +40,8 @@ music1-url: https://en.wikipedia.org/wiki/File:Pietro_Mascagni_-_Cavalleria_Rust
 music2: Gli aranci olezzano
 music2-url: https://www.youtube.com/watch?v=pBuwIEhxF6Y
 
-music3:
-music3-url:
+music3: Easter Hymn (in The Royal Opera)
+music3-url: https://www.youtube.com/watch?v=n6D5ZNwqYB0
 
 layout: exhibit
 ---

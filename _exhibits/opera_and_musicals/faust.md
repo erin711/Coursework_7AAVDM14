@@ -48,5 +48,8 @@ music1-url: https://www.youtube.com/watch?v=pzCxoMbmZfA
 music2: Avant de quitter ces lieux
 music2-url: https://www.youtube.com/watch?v=wz74ej1YRcM
 
+music3: The Jewel Song
+music3-url: https://www.youtube.com/watch?v=cYlYLU39wEM
+
 layout: exhibit
 ---
