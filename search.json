@@ -1,27 +1,18 @@
 ---
 ---
 [
-  {% for exhibit in site.exhibits %} 
+  {% for exhibit in site.exhibits %}
     {
-    
+
       "title"    : "{{ exhibit.title }}",
-      "url"      : "{{ site.baseurl }}{{ exhibit.url }}", 
+      "url"      : "{{ site.baseurl }}{{ exhibit.url }}",
       "category" : "{{ exhibit.category }}",
-      "tags"     : "{{ exhibit.tags }}",
+      "tags"     : "{{ exhibit.tags  | join: ', ' }}",
       "licence"  : "{{ exhibit.licence }}",
       "writer"   : "{{ exhibit.writer }}",
       "director" : "{{ exhibit.director }}",
-      "date"     : "{{ exhibit.performance-date | date: "%Y" }}",
+      "date"     : "{{ exhibit.performance-date | date: "%Y" }}"
 
-    }{% unless forloop.last %},{% endunless %} 
-  {% endfor %}
-
-  {% for character in data.characters %}
-    {
-     
-      "characrter" : "{{ exhibit.title }}",
-      "cast"       : "{{ exhibit.title }}",
-
-    }{% unless forloop.last %},{% endunless %}
+    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

@@ -2,31 +2,48 @@
 ---
 
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8"
     <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <div class="container">
+    <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+</head>
+
+<body>
+    <div id = "wrapper">
         <nav class="header">
-            <a href="{{ site.baseurl }}/">Little Life in Drama</a>
-            <a href="{{ site.baseurl }}/top_picks">Top Picks</a>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/top_Picks">Top Picks</a>
             <a href="{{ site.baseurl }}/plays">Plays</a>
-            <a href="{{ site.baseurl }}/opera_and_musicals">Opera and Musicals</a>
+            <a href="{{ site.baseurl }}/opera_and_Musicals">Opera and Musicals</a>
             <a href="{{ site.baseurl }}/dance">Dance</a>
-            <a href="{{ site.baseurl}}/theatres_in_london">Explore Drama in London</a>
+            <a href="{{ site.baseurl }}/theatres_in_london">Explore Drama in London</a>
             <a href="{{ site.baseurl }}/search">Search</a>
         </nav>
     </div>
-    
-    <div class="wrapper">
-          {{ content }}
-    </div>
 
+
+    <div id = "content">
+        {{ content }}
+    </div>
     <div id = "footer">
-      <p>Created with <a href = "https://jekyllrb.com/">Jekyll</a> 
-        for assessment of 7AAVDM14 CULTURAL WEB 
-        by <a href = "https://github.com/erin711">Wanqi Liu</a>, Qiyao Pan and Siyu Luo 
-        in 2021</p>
-    </div>
+        <div id="wrapper">
+            <footer class="tag"
 
-  </body>
+
+           <p>Search by category</p>
+<a href="{{ site.baseurl }}/plays">Plays</a>
+<a href="{{ site.baseurl }}/opera_and_Musicals">Opera and Musicals</a>
+<a href="{{ site.baseurl }}/dance">Dance</a>
+<a href="{{ site.baseurl }}/theatres_in_london">Explore Drama in London</a>
+<a href="{{ 1800s-1840s }}">1800s-1840s</a>
+<a href="{{ 1850s-1890s }}">1850s-1890s</a>
+<a href="{{ 1900s-1950s }}">1900s-1950s</a>
+<a href="{{ after 1950s }}">After 1950s</a>
+<a href="{{ others }}">Others</a>
+
+        </div>
+        <p>Please <a href = "{{ site.baseurl }}/contact_us">Contact us</a>> if you have any questions</p>
+        <p>Created with <a href = "https://jekyllrb.com/">Jekyll</a> for assessment by <a href = "https://github.com/erin711">Wanqi Liu</a>,<a href = "https://github.com/Luo-siyu">Siyu Luo</a> and Qiyao Pan 
+            in 2021</p>
+    </div>
+</div>
+</body>

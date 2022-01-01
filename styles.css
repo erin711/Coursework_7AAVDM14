@@ -1,0 +1,123 @@
+body {
+    background-color: rgb(247, 239, 239);
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    font-family: sans-serif;
+}
+
+nav {
+    image-orientation: flip;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    position:absolute;
+    top: 0.8cm;
+    left: 0;
+    z-index: 9999;
+    width: 110%;
+    height: 200px;
+    background-color: #720230;
+}
+.header{undefined
+    height: 300px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/a8/A_Raisin_in_the_Sun_1959_3.JPG);
+    background-repeat: no-repeat;
+    z-index: 9999;
+    width: 150%;
+    height: 200px
+    background-size: 120%;
+  }
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+#wrapper {
+    max-width: 1200px;
+    margin: auto;
+}
+
+#footer {
+    margin: auto;
+    text-align: center;
+    font-size: larger
+    position:static;
+    bottom:0;
+    left: 0;
+    z-index: 9999;
+    width: 110%;
+    height: 120px;
+    background-color: #720230;
+}
+
+#footer p {
+    font-size: small;
+    align-self: center;
+}
+
+#gallery {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 10px;
+}
+
+.grid_cell {
+    align-self: baseline;
+}
+
+@media (min-width: 600px) {
+    #gallery { 
+        grid-template-columns: repeat(2, 275px); 
+    }
+  }
+
+@media (min-width: 900px) {
+    #gallery { 
+        grid-template-columns: repeat(3, 275px); 
+    }
+  }
+
+@media (min-width: 1200px) {
+    #gallery { 
+        grid-template-columns: repeat(4, 275px); 
+    }
+  }
+
+.gallery_thumb {
+    width: 250px;
+    object-fit: cover;
+}
+
+#exhibit {
+    width: 300px;
+}
+
+@media (min-width: 600px) {
+    #exhibit {
+        width: 550px;
+    }
+}
+
+@media (min-width: 900px) {
+    #exhibit {
+        width: 850px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #exhibit {
+        width: 1150px;
+    }
+}
