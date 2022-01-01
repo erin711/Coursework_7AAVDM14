@@ -13,7 +13,7 @@ original-work-year:
 original-work-url: 
 writer: "Jules-Henri Vernoy de Saint-Georges and Théophile Gautier"
 
-category: "dance drama"
+category: "Dance"
 tags: "1840s, ballet, Classics, romantic"
 synopsis: "This ghostly ballet tells the tragic and romantic story of a beautiful young peasant girl drawn 
 to the flirtations of the deceitful and camouflaged aristocrat Albrecht. When the ruse is revealed, the vulnerable Giselle dies of a broken heart, and Albrecht must face the otherworldly consequences of his careless seduction."

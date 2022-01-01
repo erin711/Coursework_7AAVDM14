@@ -3,7 +3,7 @@ title: “The Sleeping Beauty”
 drama-url: "https://en.wikipedia.org/wiki/The_Sleeping_Beauty_(ballet)"
 brief-introduction: "The focus of ballet is on the two main conflicting forces of good and evil."
 img-name: "The Sleeping Beauty"
-image-url: "https://commons.wikimedia.org/wiki/File:Fumi_Kaneko_e_Federico_Bonelli_-_The_Sleeping_Beauty.png"
+image-url: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Fumi_Kaneko_e_Federico_Bonelli_-_The_Sleeping_Beauty.png"
 img-creator: "KumikoSAN co"
 licence:  "CC BY 4.0"
 
@@ -13,7 +13,7 @@ original-work-year: "1528"
 original-work-url: "https://en.wikipedia.org/wiki/Sleeping_Beauty"
 writer: "Charles Perrault"
 
-category: "dance drama"
+category: "Dance"
 tag: "1980s，ballet, Classics, Music" 
 synopsis:" Each has a theme that represents them throughout the ballet and serves as an important clue to the underlying plot. The third act of the work, however, disengages entirely from these two themes, focusing instead on the individuality of the various court dances."
 act-brief: |
@@ -35,7 +35,7 @@ performance-country: "Russia"
 performance-city: "St. Petersburg"
 performance-venue: "Mariinsky Theatre"
 director: "Riccardo Drigo"
-directer-img-url: "https://en.wikipedia.org/wiki/Riccardo_Drigo"
+directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Riccardo_Drigo_-1892.jpg"
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 
 scriptwriter: "Pyotr Ilyich Tchaikovsky (composer), Marius Petipa(choreographer)"

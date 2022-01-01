@@ -3,7 +3,7 @@ title: Gaîté Parisienne 
 drama-url: "https://en.wikipedia.org/wiki/Ga%C3%AEt%C3%A9_Parisienne"
 brief-introduction: "it depicts a diverse group of people visiting a fashionable Paris one evening during the Second Reich, with amorous flirting, cheerful dancing and high spirits"
 img-name: "Portrait of George Zoritch, as the Baron in Gaite Parisienne LCCN2004663774.tif"
-image-url: "https://commons.wikimedia.org/wiki/File:Portrait_of_George_Zoritch,_as_the_Baron_in_Gaite_Parisienne_LCCN2004663774.tif"
+image-url: "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Portrait_of_George_Zoritch%2C_as_the_Baron_in_Gaite_Parisienne_LCCN2004663774.tif/lossy-page1-612px-Portrait_of_George_Zoritch%2C_as_the_Baron_in_Gaite_Parisienne_LCCN2004663774.tif.jpg"
 img-creator: "Carl Van Vetchen"
 licence: "Creative Commons Public Domain Mark 1.0 License"
 
@@ -13,7 +13,7 @@ original-work-year:
 original-work-url: 
 writer: "Comte Étienne de Beaumont"  
 
-category: "dance drama"  
+category: "Dance"  
 tags: "1930s, ballet, Classics, Music"  
 synopsis: "The ballet takes the form of a single act without a traditional narrative."  
 act-brief: |
@@ -33,7 +33,7 @@ performance-country: "Monaco"
 performance-city: "Monte Carlo"
 performance-venue: "Théâtre de Monte Carlo"
 director: "Léonide Massine"
-directer-img-url: "https://commons.wikimedia.org/wiki/File:D%C3%A9sormi%C3%A8re_Harcourt_1941.jpg"
+directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/1/13/D%C3%A9sormi%C3%A8re_Harcourt_1941.jpg"
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 
 scriptwriter:  "Jacques Offenbach (music), Manuel Rosenthal and Jacques Brindejonc-Offenbach (orchestration),Comte Étienne de and Beaumont (Libretto)"
