@@ -24,7 +24,7 @@ performance-country: "America"
 performance-city:  "New York"
 performance-venue:	"Plymouth Theatre"
 director: "Arthur Hopkins"
-director-img-url: http://a1.qpic.cn/psc?/V1102NCk2FEIdr/bqQfVz5yrrGYSXMvKr.cqRJuIEjTqgLtbBonX*jkwYzHJxOxr4Hi9COJSoqyunfiUxl66IHhsO8OWmql1pLJUunCulCwdV*ANOMEF0SZxAo!/b&ek=1&kp=1&pt=0&bo=QAZABkAGQAYRECc!&tl=3&su=0248363183&tm=1641038400&sce=0-12-12&rf=2-9
+director-img-url: https://pbs.twimg.com/media/FIP-vVjXIAYsfjc?format=jpg&name=large
 director-img-licence:
 
 scriptwriter: "Robert Edmond Jones(scenic design)"

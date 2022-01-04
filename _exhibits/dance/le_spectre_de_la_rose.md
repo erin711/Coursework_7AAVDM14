@@ -1,5 +1,5 @@
 ---
-title: "Le Spectre de la rose" 
+title: Le Spectre de la rose 
 drama-url: "https://en.wikipedia.org/wiki/Le_Spectre_de_la_rose"
 brief-introduction: "Grace Robert wrote that Le Specter de la Rose was an immediate success"
 img-name: "Spectre de la rose karsavina and nijinsky 1911"
@@ -43,3 +43,4 @@ music3: "Joyce DiDonato - Berlioz - Les nuits d'été - Le spectre de la rose"
 music3-url: "https://www.youtube.com/watch?v=AF8mds4VULE"
 
 layout: exhibit
+---

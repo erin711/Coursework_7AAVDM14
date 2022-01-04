@@ -11,10 +11,10 @@ original-work-name: "Yarila"
 original-work-type: "poetry"
 original-work-year: "1907–08"
 original-work-url: 
-writer: 
+writer: "Igor Stravinsky"
 
 category: "Dance"
-tags: "1910s, Classics, Music, episodes "
+tags: "1910s, Classics, Music, episodes"
 synopsis: "The work is unified by a single idea: Spring, which has no specific plot or narrative and should be seen as a series of carefully choreographed episodes"     
 act-brief: |
   _**Act I**_ - Spring celebrations begin in the mountains. An old woman came in and began to predict the future. Young girls came from the river, in a single line. They started the kidnapping dance, and the young girls were doing the Khorovod, the spring round dance. People split into two opposing groups and began "rival tribal rituals". A sacred procession led by wise elders enters, and under the guidance of the sage, the game is suspended and the earth is blessed. People danced a passionate dance, sanctified and united with the earth.      

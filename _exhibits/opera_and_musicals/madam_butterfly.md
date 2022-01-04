@@ -14,7 +14,7 @@ original-work-url: https://en.wikipedia.org/wiki/Madame_Butterfly_(short_story)
 writer: "John Luther Long"
 
 category: "Opera and Musicals"
-tags: 1870s, Tragedy, Asia, Romance，Gothic
+tags: 1870s, Tragedy, Asia, Romance, Gothic
 
 synopsis: Puccini’s poignant score follows the tragic tale of Cio Cio San, a young Japanese girl who falls in love with American naval officer Pinkerton, with devastating consequences.
 act-brief: |

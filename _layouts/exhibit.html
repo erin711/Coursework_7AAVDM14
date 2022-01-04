@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/exhibitstyles.css">
 </head>
   <body>
     <div class="container">
@@ -18,47 +19,82 @@
         </nav>
     </div>
     
-    <div class="wrapper">
+    <div class="exhibit-wrapper">
        
         {% assign licences = site.data.licences | find: "licence", page.licence %}
         {% assign writers = site.data.writers | find: "writer", page.writer %}
         {% assign theatres = site.data.theatres | find: "theatre", page.performance-venue %}
         {% assign characters = site.data.characters %}
 
-        <h1><a href="{{ page.drama-url }}">{{ page.title }}</a></h1>
-        <p><strong>Category: </strong><a href="{{ site.baseurl }}/opera_and_musicals" title="Click for more fantastic opera and musicals!">{{ page.category }}</a></p>
-        <p><strong>Tags: </strong>{{ page.tags }}</p>
-        <p>{{ page.brief-introduction }}</p>
+        <h1 class="title1"><a class="intext" href="{{ page.drama-url }}" >{{ page.title }}</a></h1>
+        <div class="intro-tags">
+            <div class="brief-intro" id="left1">
+              <p>{{ page.brief-introduction | markdownify }}</p>
+            </div>
+            <div class="tags" id="right1">
+              <p><strong>Category: </strong><a href="{{ site.baseurl }}/opera_and_musicals" title="Click for more fantastic opera and musicals!">{{ page.category }}</a></p>
+              <p><strong>Tags: </strong>{{ page.tags }}</p>
+            </div>
+            
+        </div>
 
-        <h3>Back to the Original </h3>
-        <p>The original work of this stage show is based on {{ page.original-work-year }} {{ page.original-work-type }} 
+        <div class="first-text-img-wrapper">
+            <div class="first-text" id="left2">
+
+            <h3 class="subtitle">Back to the Original </h3>
+
+            <div class=originalwork>
+            <p class="normaltext">The original work of this show is based on {{ page.original-work-year }} {{ page.original-work-type }} 
             <a href="{{ page.original-work-url }}">{{ page.original-work-name }}</a> by <a href="{{ writers.writer-url }}">{{ page.writer }}</a></p>
-        <p>{{ page.synopsis | markdownify }}</p>
-        <p>{{ page.transition | markdownify }}</p>
+            <p class="normaltext">{{ page.synopsis }}</p>
+            <p class="normaltext">{{ page.transition }}</p>
+            </div>
+        
+            <h3 class="subtitle">About the Premiere of the Classic Melody</h3>
+            <ul>
+              <li class="smallpoint"><span class="showdetails">Debute Date:</span> {{ page.performance-date }}</li>
+              <li class="smallpoint"><span class="showdetails">Premiere Place:</span> {{ page.performance-city }}, {{ page.performance-country }}</li>
+              <li class="smallpoint"><span class="showdetails">Premiere Venue:</span> <a href="{{ theatres.theatre-url }}">{{ page.performance-venue }}</a></li>
+            </ul>
+            </div>
 
-        <img src="{{ page.image-url }}" width = 900></a><br>
-        "<a href="{{ page.image-url }}">{{ page.img-name }}</a>" by {{ page.img-creator }} is under <a href="{{ licences.licence-url }}">{{ page.licence }}</a>
+            <div class="first-img" id="right2">
+            <img src="{{ page.image-url }}" class="exhibitimg"></a><br>
+            "<a href="{{ page.image-url }}">{{ page.img-name }}</a>" by {{ page.img-creator }} is under <a href="{{ licences.licence-url }}">{{ page.licence }}</a>
+            </div>
+        </div>
 
-        <h3>About the Premiere of the Classic Melody</h3>
-        <ul>
-            <li><strong>Debute Date:</strong> {{ page.performance-date }}</li>
-            <li><strong>Premiere Place:</strong> {{ page.performance-city }}, {{ page.performance-country }}</li>
-            <li><strong>Premiere Venue:</strong> <a href="{{ theatres.theatre-url }}">{{ page.performance-venue }}</a></li>
-        </ul>
+        
 
-        <h3>Synopsis of Act</h3>
-        <p>{{ page.act-brief | markdownify }}</p>
+        <div class="actbrief">
+        <h3 class="subtitle">Synopsis of Act</h3>
+            <p class="act-text">{{ page.act-brief | markdownify }}</p>
+        </div>
 
-        <img src="{{ page.directer-img-url }}" width = 200>
-        <p><strong>Directed by</strong> {{ page.director }}</p>
-        <p><strong>Production Team Information:</strong> {{ page.scriptwriter }}</p>
+        <div class="production-container">
 
-        <h3>Melodies Lingering</h3>
-        <ul>
-            <li><a href="{{ page.music1-url }}">{{ page.music1 }}</a></li>
-            <li><a href="{{ page.music2-url }}">{{ page.music2 }}</a></li>
-            <li><a href="{{ page.music3-url }}">{{ page.music3 }}</a></li>
-        </ul>
+            <div class="director-image" id="left3">
+                <img src="{{ page.directer-img-url }}" id="director-image">
+            </div>
+            <div class="director-info" id="right3">
+                <p><strong>Directed by</strong> {{ page.director }}</p>
+                <p><strong>Production Team Information:</strong> {{ page.scriptwriter }}</p>
+            </div>
+
+        </div>
+
+        <div class="melody-container">
+            <div class="melody-content" id="left4">
+                <h3 class="subtitle">Melodies Lingering</h3>
+            </div>
+            <div class="melody-content" id="right4">
+                <ul>
+                  <li class="smallpoint"><a href="{{ page.music1-url }}">{{ page.music1 }}</a></li>
+                  <li class="smallpoint"><a href="{{ page.music2-url }}">{{ page.music2 }}</a></li>
+                  <li class="smallpoint"><a href="{{ page.music3-url }}">{{ page.music3 }}</a></li>
+                </ul>
+            </div>
+        </div>
 
 
 

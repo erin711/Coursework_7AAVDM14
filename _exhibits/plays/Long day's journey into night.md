@@ -14,8 +14,7 @@ original-work-name:
 original-work-type: "closely parallels Eugene O'Neill's own life"  
 original-work-year: "prior to O'Neill beginning his career in earnest"
 original-work-url: https://en.wikipedia.org/wiki/Monte_Cristo_Cottage
-writer: "Eugene O'Neill
-(wikipdia 2021)"
+writer: "Eugene O'Neill"
 
 category: "play"
 tags: "1950s, Tragedy, Autobiography, Family, "

@@ -39,7 +39,7 @@ performance-country: French
 performance-city: "Paris"
 performance-venue: "Théâtre de Babylone"
 director: "Roger Blin"
-director-img-url: http://a1.qpic.cn/psc?/V1102NCk2FEIdr/bqQfVz5yrrGYSXMvKr.cqY3FYbYJcIB.U.adb3wRLLzX8dhHexJNNjY**UnnGs60enZVlOBBz3GgNYhmdDFXg6SyrelaQ*vXfTUoBohSzD4!/b&ek=1&kp=1&pt=0&bo=QAZABkAGQAYRECc!&tl=3&su=0248542319&tm=1641038400&sce=0-12-12&rf=2-9
+director-img-url: https://pbs.twimg.com/media/FIP_IwSXMAIr_ej?format=jpg&name=large
 director-img-licence:
 
 scriptwriter: 

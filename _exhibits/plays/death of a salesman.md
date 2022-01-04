@@ -7,9 +7,9 @@ image-url: https://upload.wikimedia.org/wikipedia/commons/b/be/Hilding-Gavle-as-
 img-creator: "Unknown photographer"
 licence: "Creative Commons Public Domain Mark 1.0 License"
 
-original-work-name: 
-original-work-type: 
-original-work-year: 
+original-work-name: of the same name
+original-work-type: story
+original-work-year: 1949
 original-work-url: 
 writer: Arthur Miller
 

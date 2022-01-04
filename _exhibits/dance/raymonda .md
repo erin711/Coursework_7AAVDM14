@@ -1,5 +1,5 @@
 ---
-title: "Raymonda" 
+title: Raymonda 
 drama-url: "https://en.wikipedia.org/wiki/Raymonda"
 brief-introduction: "Raymonda is a ballet in three acts and four scenes, the pinnacle of ballet."
 img-name: "Raymonda, CND, José Carlos Martínez"
@@ -8,10 +8,10 @@ img-creator: "Maite villanueva"
 licence: "CC BY 3.0"
 
 original-work-name: 
-original-work-type: 
+original-work-type: "a story"
 original-work-year: 
 original-work-url: 
-writer: "Lidiya Pashkova"
+writer: "Marius Petipa"
 category: "Dance"
 tag: "1890s，ballet, Classics, Music"
 synopsis: "The complete Ramonda has been revived many times in its performing history"
@@ -39,8 +39,7 @@ directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mar
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter:  "Marius Petipa (Choreographer), Alexander Glazunov (Music),Lidiya Pashkova(Libretto), Riccardo Drigo (Conductor)"
 
-references: |
-"wikipedia.org. 2021. Raymonda. [online] Available at: <https://en.wikipedia.org/wiki/Raymonda> [Accessed 19 December 2021]."
+references: "wikipedia.org. 2021. Raymonda. [online] Available at: <https://en.wikipedia.org/wiki/Raymonda> [Accessed 19 December 2021]."
 
 music1: "Mariinsky Raymonda - Viktoria Tereshkina, Xander Parish"
 music1-url: "https://www.youtube.com/watch?v=n1E83YoD0kc"
@@ -52,3 +51,4 @@ music3: "RAYMONDA by Alexander Glazunov (Excerpts) Audio + Score"
 music3-url: "https://www.youtube.com/watch?v=c6T0NVvdheQ"
 
 layout: exhibit
+---

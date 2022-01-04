@@ -30,7 +30,7 @@ performance-country: "America"
 performance-city:  "New York"
 performance-venue: "Ethel Barrymore Theatre"
 director: "Lloyd Richards"
-director-img-url: http://a1.qpic.cn/psc?/V1102NCk2FEIdr/bqQfVz5yrrGYSXMvKr.cqaRtXun4djqqZD3svf0sm2KDJjpi3YBpAXzkbQCgNXqjGM3O5li6xOzBVETvAy9qYfSqYJF5sFp3VdGt8tyJugs!/b&ek=1&kp=1&pt=0&bo=QAZABkAGQAYRECc!&tl=3&su=050976319&tm=1641038400&sce=0-12-12&rf=2-9
+director-img-url: https://pbs.twimg.com/media/FIP9eT2WQAEuYgo?format=jpg&name=large
 director-img-licence:
 
 scriptwriter: "Philip Rose, David J. Cogan,  Jack Hylton"

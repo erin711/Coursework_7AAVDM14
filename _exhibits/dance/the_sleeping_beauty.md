@@ -1,5 +1,5 @@
 ---
-title: “The Sleeping Beauty”
+title: The Sleeping Beauty
 drama-url: "https://en.wikipedia.org/wiki/The_Sleeping_Beauty_(ballet)"
 brief-introduction: "The focus of ballet is on the two main conflicting forces of good and evil."
 img-name: "The Sleeping Beauty"
@@ -15,7 +15,7 @@ writer: "Charles Perrault"
 
 category: "Dance"
 tag: "1980s，ballet, Classics, Music" 
-synopsis:" Each has a theme that represents them throughout the ballet and serves as an important clue to the underlying plot. The third act of the work, however, disengages entirely from these two themes, focusing instead on the individuality of the various court dances."
+synopsis: " Each has a theme that represents them throughout the ballet and serves as an important clue to the underlying plot. The third act of the work, however, disengages entirely from these two themes, focusing instead on the individuality of the various court dances."
 act-brief: |
   _**Prologue**_ - King Florestan XXIV and his queen welcomed their first child, Princess Aurora, and announced a grand christening in her honor. Six fairies were invited to the ceremony to present gifts to the child. The evil fairy Carabosse arrives with the Lilac fairy. Carabosse angrily asked the king and Queen why she had not been invited to the baptism. Carabosse curses the little princess as revenge: Aurora on her 16th birthday, she will stab her finger on the spindle and die. However, the lilac fairy stepped in. Although she did not have the power to lift the curse completely, she changed it, allowing the spindle to put the princess to sleep for 100 years instead of death.     
   
@@ -40,8 +40,7 @@ directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 
 scriptwriter: "Pyotr Ilyich Tchaikovsky (composer), Marius Petipa(choreographer)"
 
-references: |
-"wikipedia.org. 2021. The_Sleeping_Beauty_(ballet) - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/The_Sleeping_Beauty_(ballet)> [Accessed 19 December 2021]."
+references: "wikipedia.org. 2021. The_Sleeping_Beauty_(ballet) - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/The_Sleeping_Beauty_(ballet)> [Accessed 19 December 2021]."
 
 music1: "Tchaikovsky: The Sleeping Beauty"
 music1-url: "https://www.youtube.com/watch?v=x1JrAbP83DY"
@@ -54,3 +53,4 @@ music3-url: "https://www.youtube.com/watch?v=2Sb8WCPjPDs"
 
 
 layout: exhibit
+---

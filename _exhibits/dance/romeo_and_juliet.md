@@ -49,4 +49,5 @@ music3: "Roberto Bolle and Misty Copeland - Romeo and Juliet"
 music3-url: "https://www.youtube.com/watch?v=7AnpPu7j6Dg"
 
 layout: exhibit
+---
 

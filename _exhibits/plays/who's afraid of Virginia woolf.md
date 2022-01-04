@@ -31,7 +31,7 @@ performance-country: "America"
 performance-city: "New York"
 performance-venue: "Broadway - Billy Rose Theatre"
 director: "Alan Schneider"
-director-img-url: http://a1.qpic.cn/psc?/V1102NCk2FEIdr/bqQfVz5yrrGYSXMvKr.cqa6e9aDN6UweBYyaE4PtMu5frDBuTOSJ6Mz*LmwQaVqleFFTcgbZGVYn4WMGcldWuDx7rUsSbvhY6HjarsVlh.c!/b&ek=1&kp=1&pt=0&bo=QAZABkAGQAYRECc!&tl=3&su=031977711&tm=1641038400&sce=0-12-12&rf=2-9
+director-img-url: https://pbs.twimg.com/media/FIP_bVdXwAE2dHt?format=jpg&name=large
 director-img-licence:
 
 scriptwriter: 

@@ -27,7 +27,7 @@ performance-country: "America"
 performance-city: "New York"
 performance-venue: "Ethel Barrymore Theatre"
 director:  "Irene Mayer Selznick"
-director-img-url: https://upload.wikimedia.org/wikipedia/commons/e/e6/Irene_Mayer_1927.jpg
+director-img-url: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Irene_Mayer_1927.jpg"
 director-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 
 scriptwriter:

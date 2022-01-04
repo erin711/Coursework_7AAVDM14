@@ -1,7 +1,7 @@
 ---
 title: "Mamma Mia!"
-drama-url: "https://en.wikipedia.org/wiki/Mamma_Mia!_(musical)
-brief-introduction: "
+drama-url: "https://en.wikipedia.org/wiki/Mamma_Mia!_(musical)"
+brief-introduction: "A drama caused by the 'father'."
 img-name: "Mamma Mia Mexico in 11 March 2010"
 image-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mamma_Mia%21_Mexico.JPG/1600px-Mamma_Mia%21_Mexico.JPG"
 img-creator: "Adry Galvan"

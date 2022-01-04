@@ -3,7 +3,7 @@ body {
 }
 
 p {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 ul {
@@ -77,6 +77,8 @@ a:hover {
     align-self: baseline;
 }
 
+
+
 @media (min-width: 600px) {
     #gallery { 
         grid-template-columns: repeat(2, 275px); 
@@ -121,3 +123,4 @@ a:hover {
         width: 1150px;
     }
 }
+
