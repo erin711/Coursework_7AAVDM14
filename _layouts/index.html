@@ -16,28 +16,24 @@
 </head>
 
 <body>
-    <div id = "wrapper">
-        <nav class="header"><br><br><br><br><br><br><br><br><br><br><br>
-            <a href="{{ site.baseurl }}/">Home</a>
-            <a href="{{ site.baseurl }}/top_Picks">Top Picks</a>
-            <a href="{{ site.baseurl }}/plays">Plays</a>
-            <a href="{{ site.baseurl }}/opera_and_Musicals">Opera and Musicals</a>
-            <a href="{{ site.baseurl }}/dance">Dance</a>
-            <a href="{{ site.baseurl }}/dram_in_london">Explore Drama in London</a>
-            <a href="{{ site.baseurl }}/search">Search</a>
+    <div class="header-wrapper">
+        <div class="header-content">
+        <nav>
+            <a href="{{ site.baseurl }}/" class="nav">Home</a>
+            <a href="{{ site.baseurl }}/top_Picks" class="nav">Top Picks</a>
+            <a href="{{ site.baseurl }}/plays" class="nav">Plays</a>
+            <a href="{{ site.baseurl }}/opera_and_Musicals" class="nav">Opera and Musicals</a>
+            <a href="{{ site.baseurl }}/dance" class="nav">Dance</a>
+            <a href="{{ site.baseurl }}/dram_in_london" class="nav">Explore Drama in London</a>
+            <a href="{{ site.baseurl }}/search" class="nav">Search</a>
         </nav>
+        </div>
     </div>
 
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <div id = "content">
+    <div class = "indexcontent">
         {{ content }}
     </div>
-    <br>
+
 <br>
 <br>
 <br>
@@ -49,14 +45,14 @@
 
     
            <p>Search by category</p>
-<a href="{{ plays }}/">Plays</a>
-<a href="{{ dance }}">Dance</a>
-<a href="{{ opera and Musicals }}">Opera_and_Musicals</a>
-<a href="{{ site.baseurl }}1800s_1840s">1800s-1840s</a>
-<a href="{{ site.baseurl }}1850s_1890s">1850s-1890s</a>
-<a href="{{ 1900s-1950s }}">1900s-1950s</a>
-<a href="{{ site.baseurl }}after_1950s">After 1950s</a>
-<a href="{{ site.baseurl }}others">Others</a>
+<a href="{{ plays }}/" class="nav">Plays</a>
+<a href="{{ dance }}" class="nav">Dance</a>
+<a href="{{ opera and Musicals }}" class="nav">Opera_and_Musicals</a>
+<a href="{{ site.baseurl }}1800s_1840s" class="nav">1800s-1840s</a>
+<a href="{{ site.baseurl }}1850s_1890s" class="nav">1850s-1890s</a>
+<a href="{{ 1900s-1950s }}"class="nav">1900s-1950s </a>
+<a href="{{ site.baseurl }}after_1950s" class="nav">After 1950s</a>
+<a href="{{ site.baseurl }}others" class="nav">Others</a>
 
         </div>
         <p>Please <a href = "{{ site.baseurl }}/contact_us">Contact us</a>> if you have any questions</p>

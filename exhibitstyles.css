@@ -64,7 +64,7 @@ p.normaltext:first-letter {
 }
 
 .title1 {
-    font-family:Unna, Courgette, Georgia, 'Times New Roman', Times, serif;
+    font-family:Unna, Georgia, 'Times New Roman', Times, serif;
     font-size: 62px;
     font-style: italic;
     font-weight: 700;
@@ -141,7 +141,7 @@ img.exhibitimg {
     
 }
 
-li.smallpoint {
+li.premiere {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 }
@@ -217,4 +217,11 @@ img#director-image {
 
 #right4 {
     line-height: 50px;
+    font-family: Yeseva One;
+}
+
+li.smallpoint {
+    font-family: Yeseva One;
+    font-size: 17px;
+    font-weight: 700;
 }

@@ -1,36 +1,134 @@
+@import
+url('https://fonts.googleapis.com/css?family=Yeseva+One');
+
+@import
+url('https://fonts.googleapis.com/css?family=Unna');
+
 body {
     background-color: rgb(247, 239, 239);
 }
 
 p {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.indexintro {
+    font-family: 'Yeseva One', Unna, Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:rgb(52, 52, 52);
+    font-weight: 800px;
+    font-style: italic;
+    text-shadow: 2px 1px 1px rgba(255, 87, 101, 0.502);
+    text-align: center;
+}
+
+p.aboutus {
+    font-family: Yeseva One;
+    font-size: 23px;
+    font-style: italic;
+    text-align: center;
+    line-height: 30px;
+}
+
+.intropara {
+    max-width: 1200px;
+    margin: auto;
+}
+
+span.museumid {
+    text-shadow: 2px 1px 1px rgba(255, 87, 101, 0.502);
 }
 
 ul {
     font-family: sans-serif;
 }
 
-nav {
+.header-wrapper {
     image-orientation: flip;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     position:absolute;
-    top: 0.8cm;
+    top: 0;
     left: 0;
     z-index: 9999;
     width: 110%;
-    height: 50px;
-    background-color: #720230;
+    height: 200px;
+    background-image: url(https://pbs.twimg.com/media/FINbg0BXoAYeaFe?format=jpg&name=4096x4096);
 }
-.header{undefined
-    height: 300px;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/a8/A_Raisin_in_the_Sun_1959_3.JPG);
-    background-repeat: no-repeat;
-    z-index: 9999;
-    width: 150%;
-    height: 200px
-    background-size: 120%;
-  }
+
+.header-content {
+    margin-top: 130px;
+    margin-right: 50px;
+    margin-left: 120px;
+    text-align: center;
+    font-family: 'Yeseva One', Unna, Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.indexcontainer {
+    align-items: center;
+    margin-left: 180px;
+    margin-right: 100px;
+    margin-top: 50px;
+    border: solid 5px rgba(77, 7, 7, 0.584);
+    padding-left:20px;
+    padding-bottom:20px;
+}
+
+.left1-0 {
+    margin-top: -20px;
+}
+
+.title2 {
+    font-family: Unna, Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.indexgrid {
+    display:grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    grid-template-areas:
+      "left1-0 right1-0";
+}
+
+img.indeximg {
+    width:750px;
+    height:500px;
+    object-fit: cover;
+}
+
+a.exploremore:link {
+    font-family: Unna, Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    font-style: italic;
+    font-weight: 700;
+    background-color: rgba(77, 7, 7, 0.584);
+    margin: 20px;
+}
+
+a.nav:link {
+    color:rgb(249, 249, 249);
+    text-decoration: none;
+    font-style:italic;
+    padding: 5px;
+}
+
+a.nav:visited {
+    color:rgb(252, 252, 252);
+    text-decoration: none;
+    font-style:italic;
+}
+
+a.nav:hover {
+    color:rgb(154, 4, 17);
+    text-decoration: none;
+    font-style:italic;
+}
+
 
 a:link {
     color: black;
@@ -44,22 +142,23 @@ a:hover {
     color: white;
 }
 
-#wrapper {
+.wrapper {
     max-width: 1200px;
     margin: auto;
 }
 
+
 #footer {
     margin: auto;
     text-align: center;
-    font-size: larger
+    font-size: larger;
     position:static;
     bottom:0;
     left: 0;
     z-index: 9999;
     width: 110%;
     height: 120px;
-    background-color: #720230;
+  
 }
 
 #footer p {
@@ -76,8 +175,6 @@ a:hover {
 .grid_cell {
     align-self: baseline;
 }
-
-
 
 @media (min-width: 600px) {
     #gallery { 
@@ -123,4 +220,3 @@ a:hover {
         width: 1150px;
     }
 }
-

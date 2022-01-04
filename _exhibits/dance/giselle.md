@@ -30,9 +30,9 @@ performance-date: "	28 June 1841"
 performance-country: "France"
 performance-city: "Paris"
 performance-venue: "Salle Le Peletier "
-director: "Efrem Kurtz"
-directer-img-url: 
-directer-img-licence: 
+director: "Jean Coralli"
+directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/3/32/Jean_Coralli.jpg"
+directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
 scriptwriter:  "Jean Coralli and Jules Perrot (Choreographer), Adolphe Adam (Music), Jules-Henri Vernoy de, Saint-Georges and Théophile Gautier (Libretto)"
 
 references: "wikipedia.org. 2021. Giselle - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Giselle> [Accessed 19 December 2021]."

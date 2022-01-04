@@ -36,7 +36,7 @@ performance-venue: "National Theatre Munich"
 director: "Richard Wagner"
 directer-img-url: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Richard_Wagner_1861.jpg"
 directer-img-licence: "Creative Commons Public Domain Mark 1.0 License"
-scriptwriter: 
+scriptwriter: Not specified
 references: |
   eno.org. 2021. The Valkrie | Opera | English National Opera. [online] Available at: <https://www.eno.org/operas/the-valkyrie/> [Accessed 13 December 2021].
 
