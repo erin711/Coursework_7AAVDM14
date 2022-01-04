@@ -46,7 +46,7 @@ ul {
 .header-wrapper {
     image-orientation: flip;
     font-size: larger;
-    position:absolute;
+    position:fixed;
     top: 0;
     left: 0;
     z-index: 9999;
@@ -201,6 +201,10 @@ a:hover {
 
 #exhibit {
     width: 300px;
+}
+
+div#search-container {
+    text-align: center;
 }
 
 @media (min-width: 600px) {
