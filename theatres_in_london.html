@@ -7,7 +7,9 @@ layout: index
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
     <title>Explore Drama Around you</title>
+    <link rel="icon" type="image/x-icron" href="/smalllogo.png">
 
     <style type="text/css">
       /* Set the size of the div element that contains the map */
@@ -84,13 +86,6 @@ layout: index
           map: map,
           label: 'Queens Theatre',
         url: 'https://www.queens-theatre.co.uk/'
-        });
-
-        const marker6 = new google.maps.Marker({
-          position: The_Old_Vic,
-          map: map,
-          label: 'The Old Vic',
-        url: 'https://www.oldvictheatre.com/'
         });
 
         const marker7 = new google.maps.Marker({
@@ -189,11 +184,7 @@ layout: index
       //window.location.href=marker5.url;
       window.open(marker5.url,'_blank');
       });
-    
-      google.maps.event.addListener(marker6,'click',function(){
-      //window.location.href=marker6.url;
-      window.open(marker6.url,'_blank');
-      });
+
     
       google.maps.event.addListener(marker7,'click',function(){
       //window.location.href=marker7.url;

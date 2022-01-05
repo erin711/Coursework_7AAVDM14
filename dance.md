@@ -10,6 +10,8 @@ layout: index
   <div class = "grid_cell">
     <a href="{{ one.url | relative_url }}"><img src="{{ one.image-url }}" class="gallery_thumb"></a>
     <p class = "caption"><a href ="{{ one.url | relative_url }}">{{ one.title }}</a></p>
+    <br>
+    <br>
   </div>
   {% endfor %}
 </div>

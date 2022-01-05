@@ -37,8 +37,8 @@ body {
 
 
 .exhibit-wrapper {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 200px;
     padding-left:50px;
     padding-right: 50px;
@@ -47,8 +47,32 @@ body {
     background-color: rgb(245, 247, 250);
 }
 
+.intro-tags {
+    display: grid;
+    grid-template-columns: 66% 40%;
+    grid-template-rows: auto;
+    grid-gap: 30px;
+    grid-template-areas:
+      "left1 right1";
+}
+
+.tags {
+    margin: 10px;
+    font-size: 15px;
+    font-family:Yeseva One;
+    font-style: italic;
+    font-weight: 400;
+    word-wrap: break-word;
+    color: rgb(94, 93, 93);
+    border:10px solid rgb(206, 163, 163);
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(249, 237, 218);
+}
+
+
 a.nav:link {
-    color:rgb(249, 249, 249);
+    color:rgb(255, 255, 255);
     text-decoration: none;
     font-style:italic;
     padding: 5px;
@@ -60,15 +84,15 @@ a.nav:hover {
 }
 
 a.nav:visited {
-    color:rgb(249, 249, 249);
+    color:rgb(255, 255, 255);
     text-decoration: none;
     font-style:italic;
-    padding: 5px;
 }
 
 a.intext:link {
     color: black;
-    text-decoration: none
+    text-decoration: none;
+    font-style:italic;
 }
 
 a.intext:hover {
@@ -122,33 +146,11 @@ p.normaltext:first-letter {
     font-style: italic;
 }
 
-.intro-tags {
-    display: grid;
-    grid-template-columns: 800px 450px;
-    grid-template-rows: auto;
-    grid-gap: 30px;
-    grid-template-areas:
-      "left1 right1";
-}
-
-.tags {
-    margin: 10px;
-    font-size: 15px;
-    font-family:Yeseva One;
-    font-style: italic;
-    font-weight: 400;
-    word-wrap: break-word;
-    color: rgb(94, 93, 93);
-    border:10px solid rgb(206, 163, 163);
-    padding-left: 10px;
-    padding-right: 10px;
-    background-color: rgb(249, 237, 218);
-}
 
 .first-text-img-wrapper {
     display: grid;
     grid-gap: 50px;
-    grid-template-columns: 790px auto;
+    grid-template-columns: 66% 40%;
     grid-template-rows: auto;
     grid-template-areas:
       "left1 right1";
@@ -166,7 +168,8 @@ p.normaltext:first-letter {
     padding: 20px;
     background-color: rgb(249, 237, 218);
     margin-top: 50px;
-
+    max-height: auto;
+    max-height: auto;
 }
 
 #right2 {
@@ -179,12 +182,12 @@ p.normaltext:first-letter {
     font-family: Cookie;
     text-shadow:2px 1px 1px rgba(255, 87, 101, 0.502);
     font-size: 30px;
+    align-self: auto;
 }
 
 img.exhibitimg {
-    text-align: center;
-    width: 380;
-    
+    align-self: center;
+    max-width: 380;
 }
 
 li.premiere {
@@ -270,4 +273,30 @@ li.smallpoint {
     font-family: Yeseva One;
     font-size: 17px;
     font-weight: 700;
+}
+
+p.act-text {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+p.references {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.reference-container {
+    color: rgb(80, 80, 80);
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border: dashed 5px rgb(206, 163, 163);
+    border-radius: 10px;
+    padding: 20px;
+    word-wrap: break-word;
+}
+
+.footernav {
+    display: grid;
 }
