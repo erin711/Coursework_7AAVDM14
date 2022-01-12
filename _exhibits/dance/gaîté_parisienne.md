@@ -1,7 +1,7 @@
 ---
 title: Gaîté Parisienne 
 drama-url: "https://en.wikipedia.org/wiki/Ga%C3%AEt%C3%A9_Parisienne"
-brief-introduction: "it depicts a diverse group of people visiting a fashionable Paris one evening during the Second Reich, with amorous flirting, cheerful dancing and high spirits"
+brief-introduction: "It depicts a diverse group of people visiting a fashionable Paris one evening during the Second Reich, with amorous flirting, cheerful dancing and high spirits."
 img-name: "Portrait of George Zoritch, as the Baron in Gaite Parisienne LCCN2004663774.tif"
 image-url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Portrait_of_George_Zoritch%2C_as_the_Baron_in_Gaite_Parisienne_LCCN2004663774.tif/lossy-page1-612px-Portrait_of_George_Zoritch%2C_as_the_Baron_in_Gaite_Parisienne_LCCN2004663774.tif.jpg"
 img-creator: "Carl Van Vetchen"

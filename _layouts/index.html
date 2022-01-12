@@ -1,19 +1,14 @@
 ---
 ---
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
-    <link rel="icon" type="image/x-icron" href="/smalllogo.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 </head>
 
 <body>
@@ -35,30 +30,34 @@
         {{ content }}
     </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
     <div id = "footer">
         <div id="wrapper">
-            <footer class="tag">
+            <p class="searchbycata" id="upperfooter">Search by category</p>
+            <div class="footernav">
+                <div class="searchby3cata" id="leftli">
+                    <ul class="footerli">
+                        <li><a href="{{ site.baseurl }}/plays" class="footnav">Plays</a></li>
+                <li><a href="{{ site.baseurl }}/dance" class="footnav">Dance</a></li>
+                <li><a href="{{ site.baseurl }}/opera_and_musicals" class="footnav">Opera and Musicals</a></li>
+                    </ul>
+                </div>
 
-    
-           <p>Search by category</p>
-<a href="{{ plays }}/" class="nav">Plays</a>
-<a href="{{ dance }}" class="nav">Dance</a>
-<a href="{{ opera and Musicals }}" class="nav">Opera_and_Musicals</a>
-<a href="{{ site.baseurl }}1800s_1840s" class="nav">1800s-1840s</a>
-<a href="{{ site.baseurl }}1850s_1890s" class="nav">1850s-1890s</a>
-<a href="{{ 1900s-1950s }}"class="nav">1900s-1950s </a>
-<a href="{{ site.baseurl }}after_1950s" class="nav">After 1950s</a>
-<a href="{{ site.baseurl }}others" class="nav">Others</a>
-
+                <div class="searchbyyear" id="rightli">
+                    <ul class="footerli">
+                        <li><a class="footnav" href="{{ site.baseurl }}/years/1800s_1840s">1800s-1840s</a></li>
+                        <li><a  class="footnav" href="{{ site.baseurl }}/years/1850s_1890s">1850s-1890s</a></li>
+                        <li><a class="footnav" href="{{ site.baseurl }}/years/1900s_1950s">1900s-1950s</a></li>
+                        <li><a class="footnav" href="{{ site.baseurl }}/years/after_1950s">After 1950s</a></li>
+                        <li><a class="footnav" href="{{ site.baseurl }}/years/others">Others</a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
-        <p>Please <a href = "{{ site.baseurl }}/contact_us">Contact us</a>> if you have any questions</p>
-        <p>Created with <a href = "https://jekyllrb.com/">Jekyll</a> for learning purposes by <a href = "https://github.com/erin711">Wanqi Liu</a>,<a href = "https://github.com/Luo-siyu">Siyu Luo</a> and Qiyao Pan 
-            in 2021</p></footer>
+
+        <p class="footercontact">Please <a class="lastcontact" href = "{{ site.baseurl }}/contact_us">Contact us</a> if you have any questions</p>
+        <p class="footercontact">Created with <a class="lastcontact" href = "https://jekyllrb.com/">Jekyll</a> for assessment purposes by <a class="lastcontact" href = "https://github.com/erin711">Wanqi Liu</a>, <a class="lastcontact" href = "https://github.com/Luo-siyu">Siyu Luo</a> and <a class="lastcontact" href = "https://github.com/PanQiyao">Qiyao Pan</a> 
+        in 2021</p></footer>
     </div>
 </div>
 </body>

@@ -1,7 +1,7 @@
 ---
-title: "Death of a saleaman"
+title: "Death of A Saleaman"
 drama-url: "https://en.wikipedia.org/wiki/Death_of_a_Salesman#Productions"
-brief-introduction: "The play will show how a traveling salesman who is disappointed in life and has reached old age is on the road to death"
+brief-introduction: "The play will show how a traveling salesman who is disappointed in life and has reached old age is on the road to death."
 img-name: "Hilding-Gavle-as-Willy-Loman-in-Death-of-a-Salesman-391853168641"
 image-url: https://upload.wikimedia.org/wikipedia/commons/b/be/Hilding-Gavle-as-Willy-Loman-in-Death-of-a-Salesman-391853168641.jpg
 img-creator: "Unknown photographer"

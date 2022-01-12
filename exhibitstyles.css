@@ -10,6 +10,9 @@ url('https://fonts.googleapis.com/css?family=Yeseva+One');
 @import
 url('https://fonts.googleapis.com/css?family=Cookie');
 
+@import
+url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
 body {
     background-color: rgb(227, 180, 176);
 }
@@ -116,7 +119,7 @@ a:visited {
 }
 
 p.normaltext {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
     line-height: 30px;
 }
@@ -127,7 +130,7 @@ p.normaltext:first-letter {
 }
 
 .act-text {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cochin, 'Playfair Display', Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
     line-height: 30px;
 }
@@ -167,8 +170,7 @@ p.normaltext:first-letter {
     padding: 20px;
     background-color: rgb(249, 237, 218);
     margin-top: 50px;
-    max-height: auto;
-    max-height: auto;
+    max-height: 600px;
 }
 
 #right2 {
@@ -190,12 +192,12 @@ img.exhibitimg {
 }
 
 li.premiere {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cochin, 'Playfair Display', Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 }
 
 .showdetails {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cochin,'Playfair Display',  Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     font-size: 20px;
     line-height: 0px;
@@ -280,7 +282,7 @@ p.act-text {
 }
 
 p.references {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cochin, 'Playfair Display', Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
     line-height: 30px;
 }

@@ -1,7 +1,7 @@
 ---
 title: Le Spectre de la rose 
 drama-url: "https://en.wikipedia.org/wiki/Le_Spectre_de_la_rose"
-brief-introduction: "Grace Robert wrote that Le Specter de la Rose was an immediate success"
+brief-introduction: "Grace Robert wrote that Le Specter de la Rose was an immediate success."
 img-name: "Spectre de la rose karsavina and nijinsky 1911"
 image-url: "https://upload.wikimedia.org/wikipedia/commons/8/85/Spectre_de_la_rose_karsavina_and_nijinsky_1911.jpg"
 img-creator: "Unknown"

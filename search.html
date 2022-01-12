@@ -1,14 +1,14 @@
 ---
 layout: index
+title: Search Your Favourites
 ---
-
+<div class="searchpage">
 <!-- Html Elements for Search -->
-<br>
 <p class="aboutus">Search title, tags, year, or licence</p>
 <div id="search-container">
     <input type="text" id="search-input" placeholder="Search ...">
     <ul id="results-container"></ul>
-</div>
+
     
 <!-- Script pointing to search-script.js -->
 <script src="{{ site.baseurl }}/js/search-script.js" type="text/javascript"></script>
@@ -21,3 +21,20 @@ layout: index
       json: '/search.json'
     })
 </script>
+</div>
+
+<div class="search_guide_container">
+  <p id="searchguides">Little Life in Drama includes 30 pieces of drama, 
+    including <span id="specificsearch">'plays', 'dances' and 'Opera and Musicals'</span>. </p>
+  <p id="searchguides">This is the best time for 'Renaissance lovers' to exlpore drama 
+    in old ages.<br>Typing: <span id="specificsearch">'18'</span> or <span id="specificsearch">'19'</span> to find classicals in 19th & 20th centuries.</p>
+  <p id="searchguides">All photos we use are under licenses, why not try to search: 
+    <span id="specificsearch">'CC BY 2.0', 'CC BY 2.5', 'CC BY-SA 2.0', 'CC BY 3.0' </span> other common used licences 
+  listed in <a href="https://creativecommons.org/about/cclicenses/">Creative Commons</a>.</p>
+  <p id="searchguides">Yes! Here are many big artists' works. Which is your love?<br>
+    <span id="specificsearch">'Giovanni Verga', 'Johann Wolfgang von Goethe', 'Richard Wagner', 'Giacomo Puccini', 'Sergei Diaghilev', ......</span></p>
+  <p id="searchguides2">How about starting from the Tops we pick for you? <a href="{{ site.baseurl }}/top_picks">Click here!</a></p>
+</div>
+
+</div>
+
